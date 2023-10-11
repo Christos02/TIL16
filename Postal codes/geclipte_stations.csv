@@ -1,0 +1,402 @@
+fid,Code,Type_,Kort,Middel,Lang,webnaam,weblibrary,Land,UICCode,Lat,Lon,OBJECTID,Synoniem,EVACode,Sporen,Spoornumme,HeeftFacil,HeeftVertr,HeeftReisa,Radius,NaderenRad,IngangsDat
+"1",HNK,Stoptreinstation,Hoorn Kers,Kersenboogerd,Hoorn Kersenboogerd,Hoorn-Kersenboogerd,f-h,NL,"8400336",52.6536102295,5.08555555344,"344",,"8400336","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"2",VB,Stoptreinstation,Voorburg,Voorburg,Voorburg,Voorburg,t-z,NL,"8400658",52.0666656494,4.35944461823,"512",,"8400658","2","1, 2",True,True,False,"200","1200","2011-05-01"
+"3",GVMW,Stoptreinstation,Moerwijk,Moerwijk,Den Haag Moerwijk,Den-Haag-Moerwijk,d-e,NL,"8400279",52.0538902283,4.30861091614,"301",,"8400279","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01"
+"4",GVM,Stoptreinstation,Mariahoeve,Mariahoeve,Den Haag Mariahoeve,Den-Haag-Mariahoeve,d-e,NL,"8400278",52.0905570984,4.36944437027,"300",,"8400278","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01"
+"5",LAA,Knooppuntstoptreinstation,Laan v NOI,Laan v NOI,Den Haag Laan v NOI,Den-Haag-Laan-v-NOI,d-e,NL,"8400380",52.0786094666,4.34277772903,"366","Laan van NOI, Laan van Nieuw Oost Indië","8400380","4","3, 4, 5, 6",True,True,True,"525","1200","2011-05-01"
+"6",LLZM,Stoptreinstation,Lansingerl,Lansingerland,Lansingerland-Zoetermeer,Lansingerland-Zoetermeer,i-n,NL,"8400135",52.042222,4.517222,"213",,"8400135","2","1, 2",True,True,True,"200","1200","2018-12-09"
+"7",ZTMO,Stoptreinstation,Zoetermr O,Zoetermeer O.,Zoetermeer Oost,Zoetermeer-Oost,t-z,NL,"8400740",52.0463905334,4.4927778244,"548",,"8400740","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"8",ZTM,Knooppuntstoptreinstation,Zoetermeer,Zoetermeer,Zoetermeer,Zoetermeer,t-z,NL,"8400741",52.0475006104,4.47722244263,"549",,"8400741","2","3, 4",True,True,True,"200","1200","2011-05-01"
+"9",DDRS,Stoptreinstation,Stadspldrs,Stadspolders,Dordrecht Stadspolders,Dordrecht-Stadspolders,d-e,NL,"8400186",51.8019447327,4.71666669846,"248",,"8400186","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"10",ST,Knooppuntstoptreinstation,Soest,Soest,Soest,Soest,o-s,NL,"8400567",52.1733322144,5.30999994278,"464",,"8400567","2","1, 2",True,True,False,"260","800","1990-01-01"
+"11",STZ,Stoptreinstation,Soest Z,Soest Z.,Soest Zuid,Soest-Zuid,o-s,NL,"8400571",52.1652793884,5.30305576324,"467",,"8400571","1","1",True,True,True,"200","1200","1990-01-01"
+"12",ETN,Intercitystation,Etten-Leur,Etten-Leur,Etten-Leur,Etten-Leur,d-e,NL,"8400218",51.5750007629,4.6358332634,"266",,"8400218","2","1, 2",True,True,True,"260","1600","2011-05-01"
+"13",RS,Stoptreinstation,Rosmalen,Rosmalen,Rosmalen,Rosmalen,o-s,NL,"8400524",51.7147216797,5.36805534363,"440",,"8400524","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"14",HMBH,Stoptreinstation,Brouwhuis,Brouwhuis,Helmond Brouwhuis,Helmond-Brouwhuis,f-h,NL,"8400299",51.47068,5.70177,"313",,"8400299","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"15",LUT,Stoptreinstation,Geleen-Lut,Geleen-Lut.,Geleen-Lutterade,Geleen-Lutterade,f-h,NL,"8400248",50.9755554199,5.82472229004,"286",,"8400248","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"16",WZ,Stoptreinstation,Wezep,Wezep,Wezep,Wezep,t-z,NL,"8400690",52.4541664124,6.00250005722,"527",,"8400690","2","1, 2",True,True,False,"200","1200","1990-01-01"
+"17",WV,Stoptreinstation,Wolvega,Wolvega,Wolvega,Wolvega,t-z,NL,"8400705",52.8808326721,6.0036110878,"535",Wolvege,"8400705","2","2, 3",True,True,True,"200","1600","1990-01-01"
+"18",ASD,Megastation,Amsterdm C,Amsterdam C.,Amsterdam Centraal,Amsterdam-Centraal,a,NL,"8400058",52.3788871765,4.90027761459,"167","Amsterdam, Amsterdam CS","8400058","31","1, 2, 2a, 2b, 4, 4a, 4b, 5, 5a, 5b, 7, 7a, 7b, 8, 8a, 8b, 10, 10a, 10b, 11, 11a, 11b, 13, 13a, 13b, 14, 14a, 14b, 15, 15a, 15b",True,True,True,"525","1200","2017-02-01"
+"19",ASDM,Stoptreinstation,Muiderprt,Muiderpoort,Amsterdam Muiderpoort,Amsterdam-Muiderpoort,a,NL,"8400060",52.3605537415,4.93111133575,"169",,"8400060","4","2, 3, 8, 9",True,True,False,"260","800","2011-05-01"
+"20",ASS,Knooppuntintercitystation,Sloterdijk,Sloterdijk,Amsterdam Sloterdijk,Amsterdam-Sloterdijk,a,NL,"8400059",52.3888893127,4.83777761459,"168",,"8400059","10","3, 4, 5, 6, 7, 8, 9, 10, 11, 12",True,True,True,"525","1200","2015-03-18"
+"21",HWZB,Stoptreinstation,Halfweg-Zw,Halfweg-Zw.,Halfweg-Zwanenburg,Halfweg-Zwanenburg,f-h,NL,"8400400",52.385935,4.747165,"378",,"8400400","2","1, 2",True,True,True,"200","1200","2012-12-09"
+"22",ASDL,Stoptreinstation,Lelylaan,Lelylaan,Amsterdam Lelylaan,Amsterdam-Lelylaan,a,NL,"8400079",52.3577766418,4.83388900757,"182",,"8400079","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"23",ASDZ,Intercitystation,Amsterdm Z,Amsterdam Z.,Amsterdam Zuid,Amsterdam-Zuid,a,NL,"8400061",52.338889,4.872356,"170",,"8400061","4","1, 2, 3, 4",True,True,True,"260","1200","2006-12-10"
+"24",RAI,Stoptreinstation,RAI,RAI,Amsterdam RAI,Amsterdam-RAI,a,NL,"8400056",52.337223053,4.89027786255,"165",,"8400056","4","1, 2, 3, 4",True,True,True,"200","1200","2006-12-23"
+"25",ASSP,Stoptreinstation,Scienceprk,Science Park,Amsterdam Science Park,Amsterdam-Science-Park,a,NL,"8400235",52.35526,4.94651,"278",,"8400083","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"26",VMW,Facultatiefstation,vd Madeweg,Van der Madeweg,Amsterdam Van der Madeweg,Amsterdam-Van-der-Madeweg,a,NL,"8400078",52.330134,4.92975,"181",,"8400023","0",,True,True,False,"0","0","2019-08-21"
+"27",DVD,Knooppuntstoptreinstation,Duivendrt,Duivendrecht,Duivendrecht,Duivendrecht,d-e,NL,"8400194",52.3233337402,4.93638896942,"252",,"8400194","4","1, 4, 5, 8",True,True,True,"525","1600","1993-05-23"
+"28",ASA,Intercitystation,Amstel,Amstel,Amsterdam Amstel,Amsterdam-Amstel,a,NL,"8400057",52.3466682434,4.91777801514,"166",,"8400057","2","1, 4",True,True,True,"260","1200","2011-05-01"
+"29",DMN,Stoptreinstation,Diemen,Diemen,Diemen,Diemen,d-e,NL,"8400165",52.34515,4.967566,"228",,"8400165","2","1, 2",True,True,True,"300","1200","2011-05-01"
+"30",ASB,Knooppuntstoptreinstation,Bijlmer A,Bijlmer ArenA,Amsterdam Bijlmer ArenA,Amsterdam-Bijlmer-ArenA,a,NL,"8400074",52.3122215271,4.94694423676,"179",,"8400074","6","1, 2, 3, 6, 7, 8",True,True,True,"260","1200","2011-05-01"
+"31",ASHD,Stoptreinstation,Holendrcht,Holendrecht,Amsterdam Holendrecht,Amsterdam-Holendrecht,a,NL,"8400231",52.29844,4.95972,"274",,"8400076","2","2, 5",True,True,False,"200","1200","2011-05-01"
+"32",DMNZ,Stoptreinstation,Diemen Z,Diemen Z.,Diemen Zuid,Diemen-Zuid,d-e,NL,"8400163",52.3302764893,4.95583343506,"226",,"8400163","2","1, 2",True,True,False,"200","1200","1993-05-01"
+"33",SHL,Megastation,Schiphol,Schiphol Airport,Schiphol Airport,Schiphol-Airport,o-s,NL,"8400561",52.3094444275,4.76194429398,"460",Amsterdam Airport,"8400561","6","1, 2, 3, 4, 5, 6",True,True,True,"2800","3200","2017-02-01"
+"34",HVS,Knooppuntintercitystation,Hilversum,Hilversum,Hilversum,Hilversum,f-h,NL,"8400322",52.2258338928,5.18194437027,"332",,"8400322","5","1, 2, 3, 4, 5",True,True,True,"525","1200","1990-01-01"
+"35",HVSP,Stoptreinstation,Sportpark,Sportpark,Hilversum Sportpark,Hilversum-Sportpark,f-h,NL,"8400570",52.2161102295,5.18722200394,"466",,"8400570","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"36",HOR,Stoptreinstation,Hol Rading,Holl. Rading,Hollandsche Rading,Hollandsche-Rading,f-h,NL,"8400327",52.1777763367,5.17916679382,"336",,"8400327","2","1, 2",True,True,False,"200","1200","1990-01-01"
+"37",HVSM,Stoptreinstation,Media Park,Media Park,Hilversum Media Park,Hilversum-Media-Park,f-h,NL,"8400324",52.2380561829,5.17388868332,"334",,"8400324","2","1, 2",True,True,False,"200","1200","1990-01-01"
+"38",NDB,Knooppuntstoptreinstation,Naarden-Bu,Naarden-Bussum,Naarden-Bussum,Naarden-Bussum,i-n,NL,"8400452",52.2802772522,5.1569442749,"400",,"8400452","2","1, 2",True,True,True,"525","1200","2009-02-18"
+"39",ALM,Knooppuntintercitystation,Almere C,Almere C.,Almere Centrum,Almere-Centrum,a,NL,"8400080",52.37503,5.21764,"183",Almere,"8400080","4","1, 2, 3, 4",True,True,True,"525","1200","2011-05-01"
+"40",ALMM,Stoptreinstation,Muziekwijk,Muziekwijk,Almere Muziekwijk,Almere-Muziekwijk,a,NL,"8400082",52.3675003052,5.19027757645,"185",,"8400082","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"41",AMPO,Stoptreinstation,Poort,Poort,Almere Poort,Almere-Poort,a,NL,"8400450",52.342778,5.151944,"398",,"8400450","2","1, 2",True,True,True,"200","1200","2012-12-12"
+"42",ALMP,Stoptreinstation,Parkwijk,Parkwijk,Almere Parkwijk,Almere-Parkwijk,a,NL,"8400104",52.3766670227,5.24472236633,"195",,"8479008","2","1, 2",True,True,False,"200","1200","2011-05-01"
+"43",ALMB,Stoptreinstation,Buiten,Buiten,Almere Buiten,Almere-Buiten,a,NL,"8400081",52.3941650391,5.27805566788,"184",,"8400081","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"44",ALMO,Stoptreinstation,Oostvaard,Oostvaarders,Almere Oostvaarders,Almere-Oostvaarders,a,NL,"8400226",52.4033317566,5.30055570602,"269",,"8400024","4","1, 2, 3, 4",True,True,False,"200","1200","2004-12-12"
+"45",WP,Knooppuntstoptreinstation,Weesp,Weesp,Weesp,Weesp,t-z,NL,"8400685",52.3127784729,5.04305553436,"524",,"8400685","4","1, 2, 5, 6",True,True,True,"525","1200","1990-01-01"
+"46",AC,Stoptreinstation,Abcoude,Abcoude,Abcoude,Abcoude,a,NL,"8400047",52.2785,4.977,"157",,"8400047","2","2, 3",True,True,False,"200","1200","2011-05-01"
+"47",BSMZ,Stoptreinstation,Bussum Z,Bussum Z.,Bussum Zuid,Bussum-Zuid,b-c,NL,"8400145",52.2658348083,5.16305541992,"218",,"8400145","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"48",PMW,Stoptreinstation,Weidevenne,Weidevenne,Purmerend Weidevenne,Purmerend-Weidevenne,o-s,NL,"8400499",52.4965906325,4.93562936783,"425",,"8400046","2","1, 2",True,True,False,"200","1200","2007-12-09"
+"49",PMO,Stoptreinstation,Overwhere,Overwhere,Purmerend Overwhere,Purmerend-Overwhere,o-s,NL,"8400506",52.511390686,4.96833324432,"428",,"8400506","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"50",PMR,Knooppuntstoptreinstation,Purmerend,Purmerend,Purmerend,Purmerend,o-s,NL,"8400508",52.5030555725,4.95361089706,"430",,"8400508","2","1, 2",True,True,True,"260","800","2011-05-01"
+"51",ZD,Knooppuntintercitystation,Zaandam,Zaandam,Zaandam,Zaandam,t-z,NL,"8400731",52.4388885498,4.81361103058,"542",,"8400731","4","1, 2, 4, 5",True,True,True,"525","1200","2011-05-01"
+"52",ZDK,Stoptreinstation,Kogerveld,Kogerveld,Zaandam Kogerveld,Zaandam-Kogerveld,t-z,NL,"8400728",52.4566650391,4.82027769089,"541",,"8400728","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"53",WM,Stoptreinstation,Wormerveer,Wormerveer,Wormerveer,Wormerveer,t-z,NL,"8400707",52.4891662598,4.79222202301,"537",,"8400707","4","1, 2, 3, 4",True,True,True,"200","1200","1990-01-01"
+"54",KZ,Stoptreinstation,Koog Zaan,Koog a.d. Zaan,Koog aan de Zaan,Koog-aan-de-Zaan,i-n,NL,"8400363",52.4586105347,4.80555534363,"357",,"8400363","2","1, 2",True,True,False,"200","1200","2016-12-11"
+"55",ZZS,Knooppuntstoptreinstation,Zaanse S.,Zaanse Schans,Zaandijk Zaanse Schans,Zaandijk-Zaanse-Schans,t-z,NL,"8400364",52.469165802,4.80499982834,"358",,"8400364","2","1, 2",True,True,True,"200","1200","2016-12-11"
+"56",KMA,Stoptreinstation,Krommenie,Krommenie-Ass.,Krommenie-Assendelft,Krommenie-Assendelft,i-n,NL,"8400368",52.49511,4.75417,"361",,"8400368","2","1, 2",True,True,False,"200","1200","1990-01-01"
+"57",HK,Stoptreinstation,Heemskerk,Heemskerk,Heemskerk,Heemskerk,f-h,NL,"8400317",52.4952774048,4.68694448471,"329",,"8400317","2","1, 2",True,True,False,"200","1200","1990-01-01"
+"58",EKZ,Stoptreinstation,Enkhuizen,Enkhuizen,Enkhuizen,Enkhuizen,d-e,NL,"8400210",52.6991653442,5.28638887405,"262",,"8400210","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"59",BKG,Stoptreinstation,Bovenk-Gr,Bovenkarspel-Gr.,Bovenkarspel-Grootebroek,Bovenkarspel-Grootebroek,b-c,NL,"8400127",52.6949996948,5.23777770996,"207",,"8400127","2","1, 2",True,True,False,"200","1200","1990-01-01"
+"60",BKF,Stoptreinstation,Bovenk Flo,Bovenkarspel Fl.,Bovenkarspel Flora,Bovenkarspel-Flora,b-c,NL,"8400230",52.6961097717,5.25277757645,"273",,"8400230","1","1",True,True,True,"250","1200","1990-01-01"
+"61",HKS,Stoptreinstation,Hoogkrspl,Hoogkarspel,Hoogkarspel,Hoogkarspel,f-h,NL,"8400334",52.6905555725,5.1838889122,"342",,"8400334","2","1, 2",True,True,False,"200","1200","2008-01-01"
+"62",HN,Knooppuntintercitystation,Hoorn,Hoorn,Hoorn,Hoorn,f-h,NL,"8400337",52.6447219849,5.05555534363,"345",,"8400337","3","1, 2, 3",True,True,True,"525","1200","1994-12-01"
+"63",HWD,Knooppuntstoptreinstation,Heerhugow,Heerhugowaard,Heerhugowaard,Heerhugowaard,f-h,NL,"8400306",52.6697235107,4.82277774811,"319",,"8400306","3","1, 2, 3",True,True,True,"525","1200","1990-01-01"
+"64",OBD,Stoptreinstation,Obdam,Obdam,Obdam,Obdam,o-s,NL,"8400480",52.6780548096,4.90722227097,"413",,"8400480","2","1, 2",True,True,False,"200","1200","1995-01-01"
+"65",SGN,Stoptreinstation,Schagen,Schagen,Schagen,Schagen,o-s,NL,"8400549",52.7844429016,4.8052778244,"455",,"8400549","3","1, 2, 3",True,True,True,"200","1200","1990-01-01"
+"66",ANA,Stoptreinstation,Anna Paulo,Anna Paulowna,Anna Paulowna,Anna-Paulowna,a,NL,"8400065",52.8672218323,4.81111097336,"171",,"8400065","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"67",HDR,Intercitystation,Den Helder,Den Helder,Den Helder,Den-Helder,d-e,NL,"8400311",52.9552764893,4.76111125946,"324",,"8400311","3","1, 2, 3",True,True,True,"260","1200","2016-06-08"
+"68",HDRZ,Stoptreinstation,Dn Heldr Z,Den Helder Z.,Den Helder Zuid,Den-Helder-Zuid,d-e,NL,"8400303",52.9324989319,4.76416683197,"317",,"8400303","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"69",AMR,Knooppuntintercitystation,Alkmaar,Alkmaar,Alkmaar,Alkmaar,a,NL,"8400050",52.6377792358,4.73972225189,"159",,"8400050","13","1, 2, 2a, 2b, 3, 3a, 3b, 4, 4a, 4b, 5, 5a, 5b",True,True,True,"525","1200","2003-07-01"
+"70",AMRN,Stoptreinstation,Alkmaar N,Alkmaar N.,Alkmaar Noord,Alkmaar-Noord,a,NL,"8400052",52.6438903809,4.76416683197,"161",,"8400052","2","1, 2",True,True,False,"200","1200","1994-12-01"
+"71",HLO,Stoptreinstation,Heiloo,Heiloo,Heiloo,Heiloo,f-h,NL,"8400309",52.599445343,4.70055532455,"322",,"8400309","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"72",HLOOV,Facultatiefstation,Heiloo OV,Heiloo OV halte,Heiloo OV halte,Heiloo-OV-halte,f-h,NL,"8400381",52.5997328,4.701298,"367",,"8400381","0",,True,True,False,"200","500","2020-04-16"
+"73",CAS,Intercitystation,Castricum,Castricum,Castricum,Castricum,b-c,NL,"8400151",52.5458335876,4.65861129761,"220",,"8400151","2","1, 2",True,True,True,"260","1200","1990-01-01"
+"74",UTG,Knooppuntstoptreinstation,Uitgeest,Uitgeest,Uitgeest,Uitgeest,t-z,NL,"8400615",52.5216674805,4.70166683197,"488",,"8400615","7","1, 1a, 1b, 3, 4, 4a, 4b",True,True,True,"525","1200","2011-05-01"
+"75",BV,Intercitystation,Beverwijk,Beverwijk,Beverwijk,Beverwijk,b-c,NL,"8400113",52.4783325195,4.65666675568,"198",,"8400113","4","2, 3, 4, 5",True,True,True,"260","1200","2011-05-01"
+"76",DRH,Stoptreinstation,Driehuis,Driehuis,Driehuis,Driehuis,d-e,NL,"8400183",52.4425010681,4.63805532455,"245",,"8400183","2","1, 2",True,True,False,"200","1200","2011-05-01"
+"77",SPTN,Stoptreinstation,Santprt N,Santpoort N.,Santpoort Noord,Santpoort-Noord,o-s,NL,"8400543",52.4338874817,4.63250017166,"451",,"8400543","2","1, 3",True,True,False,"200","1200","2011-05-01"
+"78",SPTZ,Stoptreinstation,Santprt Z,Santpoort Z.,Santpoort Zuid,Santpoort-Zuid,o-s,NL,"8400544",52.4197235107,4.63138866425,"452",,"8400544","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"79",HLM,Knooppuntintercitystation,Haarlem,Haarlem,Haarlem,Haarlem,f-h,NL,"8400285",52.3877792358,4.63833332062,"304",,"8400285","10","1, 3, 3a, 3b, 4, 5, 6, 6a, 6b, 8",True,True,True,"525","1200","2015-03-18"
+"80",BLL,Stoptreinstation,Bloemendl,Bloemendaal,Bloemendaal,Bloemendaal,b-c,NL,"8400118",52.4041671753,4.62750005722,"202",,"8400118","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"81",HLMS,Stoptreinstation,Spaarnwde,Spaarnwoude,Haarlem Spaarnwoude,Haarlem-Spaarnwoude,f-h,NL,"8400270",52.3827781677,4.6730556488,"299",,"8402735","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"82",ZVT,Stoptreinstation,Zandvoort,Zandvoort,Zandvoort aan Zee,Zandvoort-aan-Zee,t-z,NL,"8400733",52.3752784729,4.53277778625,"544",,"8400733","2","1, 2",True,True,True,"200","1200","2015-03-18"
+"83",OVN,Stoptreinstation,Overveen,Overveen,Overveen,Overveen,o-s,NL,"8400501",52.3911094666,4.60611104965,"426",,"8400501","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"84",HAD,Intercitystation,Heemstede,Heemstede-A.,Heemstede-Aerdenhout,Heemstede-Aerdenhout,f-h,NL,"8400302",52.3591651917,4.60666656494,"316",,"8400302","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"85",HFD,Stoptreinstation,Hoofddorp,Hoofddorp,Hoofddorp,Hoofddorp,f-h,NL,"8400332",52.2933349609,4.70055532455,"341",,"8400332","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01"
+"86",NVP,Stoptreinstation,Nw Vennep,Nieuw Vennep,Nieuw Vennep,Nieuw-Vennep,i-n,NL,"8400460",52.2588882446,4.64555549622,"404",,"8400460","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"87",SSH,Stoptreinstation,Sassenheim,Sassenheim,Sassenheim,Sassenheim,o-s,NL,"8400603",52.215278,4.517222,"483",,"8400102","2","1, 2",True,True,True,"200","1200","2011-12-11"
+"88",VH,Stoptreinstation,Voorhout,Voorhout,Voorhout,Voorhout,t-z,NL,"8400655",52.224445343,4.48444461823,"510",,"8400655","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"89",HIL,Stoptreinstation,Hillegom,Hillegom,Hillegom,Hillegom,f-h,NL,"8400329",52.3025016785,4.56555557251,"338",,"8400005","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"90",VST,Stoptreinstation,Voorschtn,Voorschoten,Voorschoten,Voorschoten,t-z,NL,"8400659",52.1252784729,4.43249988556,"513",,"8400659","4","1, 2, 3, 4",True,True,False,"200","1200","2011-05-01"
+"91",DVNK,Stoptreinstation,De Vink,De Vink,De Vink,De-Vink,d-e,NL,"8400188",52.1472206116,4.45638895035,"249",,"8400188","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01"
+"92",RSW,Stoptreinstation,Rijswijk,Rijswijk,Rijswijk,Rijswijk,o-s,NL,"8400505",52.0397224426,4.31916666031,"427",,"8400505","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01"
+"93",LEDN,Knooppuntintercitystation,Leiden C,Leiden C.,Leiden Centraal,Leiden-Centraal,i-n,NL,"8400390",52.1661109924,4.48166656494,"374","Leiden, Leiden CS","8400390","14","1, 2, 4, 4a, 4b, 5, 5a, 5b, 8, 8a, 8b, 9, 9a, 9b",True,True,True,"525","1600","2011-05-01"
+"94",LDL,Stoptreinstation,Leiden Lam,Lammenschans,Leiden Lammenschans,Leiden-Lammenschans,i-n,NL,"8400384",52.1469459534,4.49249982834,"369",,"8400384","1","1",True,True,True,"200","1200","2011-05-01"
+"95",LEDT,Facultatiefstation,Leiden Tr.,Leiden Transf.,Leiden Transferium,Leiden-Transferium,i-n,NL,"8400376",52.169292,4.451,"364",,"8400376","0",,True,True,False,"0","0","2020-01-14"
+"96",BSK,Stoptreinstation,Boskoop,Boskoop,Boskoop,Boskoop,b-c,NL,"8400125",52.0777778625,4.64694452286,"205",,"8400125","2","1, 2",True,True,True,"200","1200","2016-12-11"
+"97",APN,Knooppuntintercitystation,Alphen,Alphen a/d Rijn,Alphen a/d Rijn,Alphen-a-d-Rijn,a,NL,"8400053",52.1244430542,4.65777778625,"162",Alphen aan den Rijn,"8400053","3","1, 2, 3",True,True,True,"525","1200","2016-12-11"
+"98",BDG,Stoptreinstation,Bodegraven,Bodegraven,Bodegraven,Bodegraven,b-c,NL,"8400121",52.0813903809,4.74611091614,"203",,"8400121","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"99",YPB,Stoptreinstation,Ypenburg,Ypenburg,Den Haag Ypenburg,Den-Haag-Ypenburg,d-e,NL,"8400379",52.0552787781,4.39222240448,"365",,"8400030","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"100",GVC,Megastation,Den Haag C,Den Haag C.,Den Haag Centraal,Den-Haag-Centraal,d-e,NL,"8400282",52.0802764893,4.32499980927,"303","""s-Gravenhage"", Den Haag, Den Haag CS","8400282","10","1, 2, 3, 4, 5, 6, 7, 8, 9, 10",True,True,True,"525","1600","2015-04-15"
+"101",GV,Knooppuntintercitystation,Dn Haag HS,Den Haag HS,Den Haag HS,Den-Haag-HS,d-e,NL,"8400280",52.0697212219,4.32250022888,"302","Hollands Spoor, Den Haag Hollands Spoor","8400280","5","1, 3, 4, 5, 6",True,True,True,"525","1600","2017-02-01"
+"102",DT,Knooppuntintercitystation,Delft,Delft,Delft,Delft,d-e,NL,"8400170",52.0066680908,4.35638904572,"233",,"8400170","2","1, 2",True,True,True,"525","1200","2007-12-09"
+"103",DTCP,Stoptreinstation,Delft Camp,Delft Campus,Delft Campus,Delft-Campus,d-e,NL,"8400166",51.9908332825,4.36472225189,"229",,"8400166","2","1, 2",True,True,False,"200","1200","2019-12-15"
+"104",CPS,Stoptreinstation,Schollevr,Schollevaar,Capelle Schollevaar,Capelle-Schollevaar,b-c,NL,"8400147",51.9541664124,4.58416652679,"219",,"8400147","2","1, 2",True,True,True,"200","1200","2007-12-09"
+"105",NWK,Stoptreinstation,Nieuwerkrk,Nieuwerkerk,Nieuwerkerk a/d IJssel,Nieuwerkerk-a-d-IJssel,i-n,NL,"8400455",51.9652786255,4.61694431305,"402",,"8400455","2","1, 2",True,True,False,"200","1200","2011-05-01"
+"106",RTA,Intercitystation,Alexander,Alexander,Rotterdam Alexander,Rotterdam-Alexander,o-s,NL,"8400507",51.9519462585,4.55361127853,"429",,"8400507","2","1, 2",True,True,True,"260","1600","2007-12-09"
+"107",RTN,Stoptreinstation,Rotterdm N,Rotterdam N.,Rotterdam Noord,Rotterdam-Noord,o-s,NL,"8400531",51.9422225952,4.48166656494,"445",,"8400531","2","1, 2",True,True,False,"200","1200","2007-12-09"
+"108",GD,Knooppuntintercitystation,Gouda,Gouda,Gouda,Gouda,f-h,NL,"8400258",52.0175018311,4.70444440842,"292",,"8400258","13","3, 3a, 3b, 5, 5a, 5b, 8, 8a, 8b, 10, 10a, 10b, 11",True,True,True,"525","1200","2016-12-11"
+"109",WADN,Stoptreinstation,Waddinxv N,Waddinxveen N.,Waddinxveen Noord,Waddinxveen-Noord,t-z,NL,"8400674",52.0550003052,4.6483335495,"519",,"8400674","1","1",True,True,True,"200","1200","2016-12-11"
+"110",WAD,Stoptreinstation,Waddinxvn,Waddinxveen,Waddinxveen,Waddinxveen,t-z,NL,"8400675",52.0441665649,4.6497220993,"520",,"8400675","2","1, 2",True,True,True,"200","1200","2016-12-11"
+"111",WADT,Stoptreinstation,Triangel,Triangel,Waddinxveen Triangel,Waddinxveen-Triangel,t-z,NL,"8400677",52.02725,4.6491,"521",,"8400677","1","1",True,True,True,"200","1200","2018-02-12"
+"112",BSKS,Stoptreinstation,Snijdelwk,Snijdelwijk,Boskoop Snijdelwijk,Boskoop-Snijdelwijk,b-c,NL,"8400126",52.067658,4.646186,"206",,"8400126","1","1",True,True,True,"200","1200","2017-12-10"
+"113",GDG,Stoptreinstation,Goverwelle,Goverwelle,Gouda Goverwelle,Gouda-Goverwelle,f-h,NL,"8400257",52.0149993896,4.74083328247,"291",,"8400257","4","1, 2, 3, 4",True,True,True,"200","1600","1993-05-01"
+"114",BRD,Stoptreinstation,Barendrcht,Barendrecht,Barendrecht,Barendrecht,b-c,NL,"8400090",51.8547210693,4.55333328247,"188",,"8400090","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01"
+"115",RTB,Stoptreinstation,Blaak,Blaak,Rotterdam Blaak,Rotterdam-Blaak,o-s,NL,"8400529",51.9202766418,4.48888874054,"443",,"8400529","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01"
+"116",RTD,Megastation,Rotterdm C,Rotterdam C.,Rotterdam Centraal,Rotterdam-Centraal,o-s,NL,"8400530",51.9249992371,4.46888875961,"444","Rotterdam CS, Rotterdam","8400530","13","2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16",True,True,True,"525","1000","2017-02-01"
+"117",SDM,Stoptreinstation,Schiedam C,Schiedam C.,Schiedam Centrum,Schiedam-Centrum,o-s,NL,"8400553",51.9212438128,4.40899372101,"457",,"8400553","4","1, 2, 3, 5",True,True,True,"200","1200","2017-04-01"
+"118",RTZ,Stoptreinstation,Rotterdm Z,Rotterdam Z.,Rotterdam Zuid,Rotterdam-Zuid,o-s,NL,"8400533",51.9044456482,4.51027774811,"446",,"8400533","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01"
+"119",RTST,Facultatiefstation,R'dam Sta,R'dam Stadion,Rotterdam Stadion,Rotterdam-Stadion,o-s,NL,"8400534",51.8938903809,4.51972198486,"447",,"8400015","4","3a, 3b, 4a, 4b",True,False,True,"200","1200","2007-12-09"
+"120",RLB,Stoptreinstation,Lombardije,Lombardijen,Rotterdam Lombardijen,Rotterdam-Lombardijen,o-s,NL,"8400542",51.8800010681,4.53138875961,"450",,"8400542","4","1, 2, 3, 4",True,True,False,"200","1200","2011-05-01"
+"121",DDR,Knooppuntintercitystation,Dordrecht,Dordrecht,Dordrecht,Dordrecht,d-e,NL,"8400180",51.807220459,4.66833353043,"242",,"8400180","15","1, 1a, 1b, 2, 2a, 2b, 3, 3a, 3b, 4, 4a, 4b, 5, 15, 20",True,True,True,"525","1200","2018-12-09"
+"122",DDZD,Stoptreinstation,Dordrcht Z,Dordrecht Z.,Dordrecht Zuid,Dordrecht-Zuid,d-e,NL,"8400181",51.7900009155,4.67138910294,"243",,"8400181","2","1, 2",True,True,False,"200","1200","2011-05-01"
+"123",ZWD,Stoptreinstation,Zwijndrcht,Zwijndrecht,Zwijndrecht,Zwijndrecht,t-z,NL,"8400752",51.8149986267,4.64166688919,"556",,"8400752","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01"
+"124",SDTB,Stoptreinstation,Baanhoek,Baanhoek,Sliedrecht Baanhoek,Sliedrecht-Baanhoek,o-s,NL,"8400497",51.829722,4.743333,"423",,"8400101","1","1",True,True,True,"200","1200","2020-05-13"
+"125",SDT,Stoptreinstation,Sliedrecht,Sliedrecht,Sliedrecht,Sliedrecht,o-s,NL,"8400565",51.8297233582,4.7783331871,"462",,"8400565","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"126",BHDV,Stoptreinstation,Boven-Har,Boven-Hardinxv.,Boven-Hardinxveld,Boven-Hardinxveld,b-c,NL,"8400236",51.832222,4.878056,"279",,"8400098","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"127",GND,Stoptreinstation,Hardinxvld,Hardinxveld-G.,Hardinxveld-Giessendam,Hardinxveld-Giessendam,f-h,NL,"8400295",51.8305549622,4.8358335495,"309",,"8400295","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"128",HBZM,Stoptreinstation,Blauwe Zm,Blauwe Zoom,Hardinxveld Blauwe Zoom,Hardinxveld-Blauwe-Zoom,f-h,NL,"8400438",51.82944,4.81556,"395",,"8400104","1","1",True,True,True,"200","1200","2020-05-13"
+"129",WD,Knooppuntstoptreinstation,Woerden,Woerden,Woerden,Woerden,t-z,NL,"8400702",52.0849990845,4.89361095428,"533",,"8400702","4","1, 2, 5, 6",True,True,True,"525","1200","2011-05-01"
+"130",VTN,Stoptreinstation,Vleuten,Vleuten,Vleuten,Vleuten,t-z,NL,"8400651",52.103056,5.007404,"507",,"8400651","2","1, 4",True,True,False,"200","1200","2011-05-01"
+"131",UTVR,Knooppuntstoptreinstation,VaartscheR,Vaartsche Rijn,Utrecht Vaartsche Rijn,Utrecht-Vaartsche-Rijn,t-z,NL,"8400606",52.078889,5.121667,"484",,"8400606","4","1, 2, 3, 4",True,True,False,"200","1200","2016-08-22"
+"132",UT,Megastation,Utrecht C,Utrecht C.,Utrecht Centraal,Utrecht-Centraal,t-z,NL,"8400621",52.0888900757,5.11027765274,"493","Utrecht, Utrecht CS","8400621","16","1, 2, 3, 4, 5, 7, 8, 9, 11, 12, 14, 15, 18, 19, 20, 21",True,True,True,"525","1550","2000-01-07"
+"133",UTLN,Stoptreinstation,Lunetten,Lunetten,Utrecht Lunetten,Utrecht-Lunetten,t-z,NL,"8400623",52.0655555725,5.14416646957,"494",,"8400623","2","1, 2",True,True,False,"200","1200","2016-06-08"
+"134",UTZL,Stoptreinstation,Zuilen,Zuilen,Utrecht Zuilen,Utrecht-Zuilen,t-z,NL,"8400613",52.103055,5.09,"486",,"8400039","2","2, 3",True,True,False,"200","1200","2008-01-01"
+"135",UTLR,Stoptreinstation,LeidscheRn,Leidsche Rijn,Utrecht Leidsche Rijn,Utrecht-Leidsche-Rijn,t-z,NL,"8400607",52.09896,5.06523,"485",,"8400607","2","1, 4",True,True,False,"200","1200","2018-05-16"
+"136",UTT,Stoptreinstation,Terwijde,Terwijde,Utrecht Terwijde,Utrecht-Terwijde,t-z,NL,"8400614",52.1000753,5.0439547,"487",,"8400022","2","1, 4",True,True,False,"200","1200","2003-12-14"
+"137",UTO,Knooppuntstoptreinstation,Overvecht,Overvecht,Utrecht Overvecht,Utrecht-Overvecht,t-z,NL,"8400620",52.1100006104,5.12472200394,"492",,"8400620","3","1, 2, 3",True,True,True,"260","1200","1990-01-01"
+"138",UTM,Stoptreinstation,Maliebaan,Maliebaan,Utrecht Maliebaan,Utrecht-Maliebaan,t-z,NL,"8400624",52.0877761841,5.13138866425,"495",Spoorwegmuseum,"8400027","1","2",True,False,True,"200","1200","2012-11-14"
+"139",MAS,Stoptreinstation,Maarssen,Maarssen,Maarssen,Maarssen,i-n,NL,"8400419",52.1352767944,5.03361129761,"384",,"8400419","2","2, 3",True,True,True,"200","1200","1990-01-01"
+"140",BKL,Knooppuntstoptreinstation,Breukelen,Breukelen,Breukelen,Breukelen,b-c,NL,"8400133",52.17149,4.9906,"212",,"8400133","2","2, 3",True,True,False,"260","800","1990-01-01"
+"141",DB,Knooppuntstoptreinstation,Driebergen,Driebergen-Zeist,Driebergen-Zeist,Driebergen-Zeist,d-e,NL,"8400182",52.0652770996,5.25861120224,"244",,"8400182","2","1, 2",True,True,True,"200","1200","2003-09-01"
+"142",BHV,Stoptreinstation,Bilthoven,Bilthoven,Bilthoven,Bilthoven,b-c,NL,"8400114",52.1300010681,5.20388889313,"199",,"8400114","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"143",DLD,Knooppuntstoptreinstation,Den Dolder,Den Dolder,Den Dolder,Den-Dolder,d-e,NL,"8400179",52.1402778625,5.2427778244,"241",,"8400179","2","1, 2",True,True,False,"260","1200","1990-01-01"
+"144",BRN,Knooppuntstoptreinstation,Baarn,Baarn,Baarn,Baarn,b-c,NL,"8400086",52.2083320618,5.28083324432,"186",,"8400086","4","1, 2, 3, 4",True,True,True,"525","1200","1990-01-01"
+"145",SD,Stoptreinstation,Soestdijk,Soestdijk,Soestdijk,Soestdijk,o-s,NL,"8400569",52.1836128235,5.30000019073,"465",,"8400569","1","1",True,True,False,"200","1200","1990-01-01"
+"146",BNC,Stoptreinstation,Barnevld C,Barneveld C.,Barneveld Centrum,Barneveld-Centrum,b-c,NL,"8400091",52.1399993896,5.59027767181,"189",,"8400091","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"147",BNN,Stoptreinstation,Barnevld N,Barneveld N.,Barneveld Noord,Barneveld-Noord,b-c,NL,"8400092",52.1613883972,5.5980553627,"190",,"8400092","1","1",True,True,True,"200","1200","2020-05-13"
+"148",BNZ,Stoptreinstation,Barnevld Z,Barneveld Z.,Barneveld Zuid,Barneveld-Zuid,b-c,NL,"8400115",52.128853,5.60246,"200",,"8400111","1","1",True,True,True,"200","1200","2020-05-13"
+"149",AMF,Knooppuntintercitystation,Amersfrt C,Amersfoort C.,Amersfoort Centraal,Amersfoort-Centraal,a,NL,"8400055",52.1538887024,5.37055540085,"164","Amersfoort CS, Amersfoort","8400055","14","1, 2, 2a, 2b, 4, 4a, 4b, 5, 5a, 5b, 6, 6a, 6b, 7",True,True,True,"525","1200","2019-12-15"
+"150",AMFS,Stoptreinstation,Schothorst,Schothorst,Amersfoort Schothorst,Amersfoort-Schothorst,a,NL,"8400054",52.1748221375,5.40388870239,"163",,"8400054","3","1, 2, 3",True,True,True,"200","1200","1990-01-01"
+"151",AVAT,Stoptreinstation,Vathorst,Vathorst,Amersfoort Vathorst,Amersfoort-Vathorst,a,NL,"8400228",52.192779541,5.4338889122,"271",,"8400031","3","1, 2, 3",True,True,True,"200","1200","2006-05-28"
+"152",HVL,Stoptreinstation,Hoevelaken,Hoevelaken,Hoevelaken,Hoevelaken,f-h,NL,"8400490",52.16652,5.45718,"419",,"8400490","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"153",HD,Knooppuntstoptreinstation,Harderwijk,Harderwijk,Harderwijk,Harderwijk,f-h,NL,"8400294",52.3375015259,5.61972236633,"308",,"8400294","2","1, 2",True,True,True,"260","800","1990-01-01"
+"154",EML,Stoptreinstation,Ermelo,Ermelo,Ermelo,Ermelo,d-e,NL,"8400216",52.3016662598,5.61472225189,"264",,"8400216","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"155",NKK,Stoptreinstation,Nijkerk,Nijkerk,Nijkerk,Nijkerk,i-n,NL,"8400469",52.2222213745,5.49388885498,"408",,"8400469","2","1, 2",True,True,True,"200","1600","1990-01-01"
+"156",PT,Stoptreinstation,Putten,Putten,Putten,Putten,o-s,NL,"8400509",52.2649993896,5.57527780533,"431",,"8400509","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"157",VNDC,Knooppuntstoptreinstation,Veenendl C,Veenendaal C.,Veenendaal Centrum,Veenendaal-Centrum,t-z,NL,"8400627",52.0200004578,5.54861116409,"496",,"8400627","2","1, 2",True,True,True,"260","800","2001-06-10"
+"158",VNDW,Stoptreinstation,Veenendl W,Veenendaal W.,Veenendaal West,Veenendaal-West,t-z,NL,"8400628",52.0280570984,5.53138875961,"497",,"8400628","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"159",RHN,Knooppuntstoptreinstation,Rhenen,Rhenen,Rhenen,Rhenen,o-s,NL,"8400517",51.9586105347,5.57833337784,"434",,"8400517","1","1",True,True,True,"200","1200","2003-09-01"
+"160",MRN,Knooppuntstoptreinstation,Maarn,Maarn,Maarn,Maarn,i-n,NL,"8400417",52.0641670227,5.36999988556,"383",,"8400417","2","1, 2",True,True,True,"260","800","1990-01-01"
+"161",BNK,Stoptreinstation,Bunnik,Bunnik,Bunnik,Bunnik,b-c,NL,"8400141",52.0630569458,5.19444465637,"217",,"8400141","2","1, 2",True,True,False,"200","1200","1990-01-01"
+"162",HTNC,Stoptreinstation,Castellum,Castellum,Houten Castellum,Houten-Castellum,f-h,NL,"8400335",52.01701,5.17949,"343",,"8400010","2","1, 2",True,True,False,"200","1200","2010-12-12"
+"163",HTN,Knooppuntstoptreinstation,Houten,Houten,Houten,Houten,f-h,NL,"8400340",52.03402,5.16821,"348",,"8400340","2","1, 2",True,True,True,"200","1200","2010-12-12"
+"164",TL,Knooppuntstoptreinstation,Tiel,Tiel,Tiel,Tiel,t-z,NL,"8400596",51.8894462585,5.42222213745,"478",,"8400596","2","2, 3",True,True,True,"260","800","2014-04-02"
+"165",TPSW,Stoptreinstation,Passewaaij,Passewaaij,Tiel Passewaaij,Tiel-Passewaaij,t-z,NL,"8400600",51.8738899231,5.39222240448,"482",,"8400036","1","1",True,True,False,"200","1200","2007-04-16"
+"166",KTR,Stoptreinstation,Kesteren,Kesteren,Kesteren,Kesteren,i-n,NL,"8400359",51.9313869,5.5833465,"353",,"8400359","2","3, 4",True,True,True,"200","1200","2020-05-13"
+"167",OP,Stoptreinstation,Opheusden,Opheusden,Opheusden,Opheusden,o-s,NL,"8400494",51.9261615,5.6371145,"420",,"8400494","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"168",CL,Stoptreinstation,Culemborg,Culemborg,Culemborg,Culemborg,b-c,NL,"8400154",51.9466667175,5.22694444656,"223",,"8400154","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"169",LDM,Stoptreinstation,Leerdam,Leerdam,Leerdam,Leerdam,i-n,NL,"8400386",51.8947219849,5.09138870239,"370",,"8400386","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"170",BSD,Stoptreinstation,Beesd,Beesd,Beesd,Beesd,b-c,NL,"8400097",51.8994445801,5.19444465637,"193",,"8400097","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"171",GDM,Knooppuntstoptreinstation,Geldermlsn,Geldermalsen,Geldermalsen,Geldermalsen,f-h,NL,"8400244",51.88301,5.27127,"283",,"8400244","4","1, 3, 4, 6",True,True,True,"260","800","2018-12-09"
+"172",GR,Knooppuntstoptreinstation,Gorinchem,Gorinchem,Gorinchem,Gorinchem,f-h,NL,"8400256",51.8338890076,4.96833324432,"290",,"8400256","2","1, 2",True,True,True,"260","800","2020-05-13"
+"173",AKL,Stoptreinstation,Arkel,Arkel,Arkel,Arkel,a,NL,"8400068",51.8719444275,4.9927778244,"174",,"8400068","1","1",True,True,True,"200","1200","2020-05-13"
+"174",MDB,Stoptreinstation,Middelburg,Middelburg,Middelburg,Middelburg,i-n,NL,"8400436",51.494720459,3.61722230911,"394",,"8400436","2","1, 2",True,True,True,"200","1200","2015-03-18"
+"175",ARN,Stoptreinstation,Arnemuiden,Arnemuiden,Arnemuiden,Arnemuiden,a,NL,"8400069",51.5016670227,3.66916656494,"175",,"8400069","2","1, 2",True,True,True,"250","1200","2011-05-01"
+"176",VS,Knooppuntintercitystation,Vlissingen,Vlissingen,Vlissingen,Vlissingen,t-z,NL,"8400652",51.4458351135,3.59527778625,"508",,"8400652","3","1, 2, 3",True,True,True,"525","1200","2011-05-01"
+"177",VSS,Stoptreinstation,Souburg,Souburg,Vlissingen Souburg,Vlissingen-Souburg,t-z,NL,"8400653",51.4647216797,3.59527778625,"509",,"8400653","2","1, 2",True,True,True,"250","1200","2011-05-01"
+"178",KRG,Stoptreinstation,Kruiningen,Kruiningen-Y.,Kruiningen-Yerseke,Kruiningen-Yerseke,i-n,NL,"8400370",51.4650001526,4.03722238541,"363",,"8400370","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"179",RB,Stoptreinstation,Rilland-Ba,Rilland-Bath,Rilland-Bath,Rilland-Bath,o-s,NL,"8400521",51.4227790833,4.16111087799,"438",,"8400521","2","1, 2",True,True,True,"250","1200","2011-05-01"
+"180",KBD,Stoptreinstation,Krabbendke,Krabbendijke,Krabbendijke,Krabbendijke,i-n,NL,"8400367",51.4333343506,4.11694431305,"360",,"8400367","2","1, 2",True,True,True,"250","1200","2011-05-01"
+"181",BZL,Stoptreinstation,Kapelle-Bi,Kapelle-Biezel.,Kapelle-Biezelinge,Kapelle-Biezelinge,i-n,NL,"8400354",51.4808349609,3.9561111927,"351",,"8400354","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"182",GS,Stoptreinstation,Goes,Goes,Goes,Goes,f-h,NL,"8400253",51.4980545044,3.89055562019,"288",,"8400253","2","1, 2",True,True,True,"200","1200","2015-03-18"
+"183",BGN,Stoptreinstation,Bergen opZ,Bergen op Zoom,Bergen op Zoom,Bergen-op-Zoom,b-c,NL,"8400108",51.493888855,4.29611110687,"196",,"8400108","2","2, 3",True,True,True,"200","1200","2011-05-01"
+"184",RSD,Knooppuntintercitystation,Roosendaal,Roosendaal,Roosendaal,Roosendaal,o-s,NL,"8400526",51.5402793884,4.45833349228,"442",,"8400526","9","1, 1a, 1b, 3, 3a, 3b, 4, 4a, 4b",True,True,True,"525","1200","2018-04-09"
+"185",ODB,Stoptreinstation,Oudenbosch,Oudenbosch,Oudenbosch,Oudenbosch,o-s,NL,"8400498",51.5877761841,4.53333330154,"424",,"8400498","3","1, 2, 3",True,True,True,"200","1200","2011-05-01"
+"186",ZVB,Stoptreinstation,Zevenbergn,Zevenbergen,Zevenbergen,Zevenbergen,t-z,NL,"8400737",51.64042,4.60904,"547",,"8400737","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"187",ZLW,Knooppuntstoptreinstation,Lage Zwalu,Lage Zwaluwe,Lage Zwaluwe,Lage-Zwaluwe,i-n,NL,"8400382",51.6911125183,4.66305541992,"368",,"8400382","4","1, 2, 3, 4",True,True,False,"260","800","2011-05-01"
+"188",BD,Knooppuntintercitystation,Breda,Breda,Breda,Breda,b-c,NL,"8400131",51.5955543518,4.78000020981,"210",,"8400131","9","2, 3, 4, 5, 6, 6a, 6b, 7, 8",True,True,True,"525","1200","2018-04-09"
+"189",BDPB,Stoptreinstation,Prinsenbk,Prinsenbeek,Breda-Prinsenbeek,Breda-Prinsenbeek,b-c,NL,"8400132",51.606388092,4.72083330154,"211",,"8400132","2","1, 2",True,True,False,"200","1200","2011-05-01"
+"190",TBU,Stoptreinstation,Tilburg Un,Tilburg Uni.,Tilburg Universiteit,Tilburg-Universiteit,t-z,NL,"8400594",51.564985,5.051778,"477",,"8400594","3","1, 2, 3",True,True,True,"300","500","2010-12-12"
+"191",TBR,Stoptreinstation,Reeshof,Reeshof,Tilburg Reeshof,Tilburg-Reeshof,t-z,NL,"8400598",51.5736122131,4.99444437027,"480",,"8400021","2","1, 2",True,True,False,"200","1200","2003-12-14"
+"192",TB,Knooppuntintercitystation,Tilburg,Tilburg,Tilburg,Tilburg,t-z,NL,"8400597",51.5605545044,5.08361101151,"479",,"8400597","3","1, 2, 3",True,True,True,"525","1200","2015-03-18"
+"193",OT,Stoptreinstation,Oisterwijk,Oisterwijk,Oisterwijk,Oisterwijk,o-s,NL,"8400482",51.5822219849,5.19416666031,"414",,"8400482","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"194",GZ,Stoptreinstation,Gilze-Rij,Gilze-Rijen,Gilze-Rijen,Gilze-Rijen,f-h,NL,"8400251",51.5836105347,4.92611122131,"287",,"8400251","2","3, 4",True,True,False,"200","1200","2002-01-01"
+"195",HT,Knooppuntintercitystation,Den Bosch,'s-Hertogenbosch,'s-Hertogenbosch,s-Hertogenbosch,o-s,NL,"8400319",51.69048,5.29362,"330","""Hertogenbosch (s)"", Den Bosch","8400319","13","1, 3, 3a, 3b, 4, 4a, 4b, 6, 6a, 6b, 7, 7a, 7b",True,True,True,"525","1200","2015-03-18"
+"196",HTO,Stoptreinstation,Dn Bosch O,'s-Hertogenb. O.,'s-Hertogenbosch Oost,s-Hertogenbosch-Oost,o-s,NL,"8400320",51.700553894,5.31833314896,"331","""Hertogenbosch Oost (s)"", Den Bosch Oost","8400320","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"197",VG,Stoptreinstation,Vught,Vught,Vught,Vught,t-z,NL,"8400667",51.6555557251,5.29194450378,"517",,"8400667","2","1, 2",True,True,False,"200","1200","2011-05-01"
+"198",BTL,Knooppuntstoptreinstation,Boxtel,Boxtel,Boxtel,Boxtel,b-c,NL,"8400129",51.58433,5.31912,"209",,"8400129","4","2, 3, 6, 7",True,True,True,"260","800","2011-05-01"
+"199",ZBM,Stoptreinstation,Zaltbommel,Zaltbommel,Zaltbommel,Zaltbommel,t-z,NL,"8400732",51.8088874817,5.26333332062,"543",,"8400732","2","1, 2",True,True,False,"200","1200","1990-01-01"
+"200",OW,Stoptreinstation,Oss W,Oss W.,Oss West,Oss-West,o-s,NL,"8400496",51.7580566406,5.50555562973,"422",,"8400496","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"201",O,Knooppuntintercitystation,Oss,Oss,Oss,Oss,o-s,NL,"8400495",51.7655563354,5.53222227097,"421",,"8400495","2","1, 2",True,True,True,"525","1600","2011-05-01"
+"202",RVS,Stoptreinstation,Ravenstein,Ravenstein,Ravenstein,Ravenstein,o-s,NL,"8400515",51.7941665649,5.6358332634,"433",,"8400515","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"203",CK,Stoptreinstation,Cuijk,Cuijk,Cuijk,Cuijk,b-c,NL,"8400155",51.7266825879,5.87429523468,"224",,"8400155","3","1, 2, 3",True,True,True,"200","1200","2020-05-13"
+"204",GP,Knooppuntstoptreinstation,Geldrop,Geldrop,Geldrop,Geldrop,f-h,NL,"8400245",51.4197235107,5.55055570602,"284",,"8400245","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"205",HZE,Stoptreinstation,Heeze,Heeze,Heeze,Heeze,f-h,NL,"8400308",51.3849983215,5.56944465637,"321",,"8400308","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"206",EHV,Megastation,Eindhovn C,Eindhoven C.,Eindhoven Centraal,Eindhoven-Centraal,d-e,NL,"8400206",51.4433326721,5.48138904572,"259","Eindhoven CS, Eindhoven","8400206","10","1, 1a, 1b, 2, 2a, 2b, 3, 4, 5, 6",True,True,True,"525","1200","2019-12-15"
+"207",EHS,Stoptreinstation,Strijp-S,Strijp-S,Eindhoven Strijp-S,Eindhoven-Strijp-S,d-e,NL,"8400196",51.4511108398,5.45583343506,"254",,"8400196","4","1, 2, 3, 4",True,True,True,"200","1200","2015-12-13"
+"208",BET,Stoptreinstation,Best,Best,Best,Best,b-c,NL,"8400112",51.5099983215,5.38916683197,"197",,"8400112","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01"
+"209",HM,Knooppuntintercitystation,Helmond,Helmond,Helmond,Helmond,f-h,NL,"8400313",51.4755554199,5.66194438934,"326",,"8400313","2","1, 2",True,True,True,"525","1600","2011-05-01"
+"210",HMBV,Stoptreinstation,Brandevrt,Brandevoort,Helmond Brandevoort,Helmond-Brandevoort,f-h,NL,"8400242",51.462223053,5.60722208023,"282",,"8400035","2","1, 2",True,True,False,"200","1200","2011-05-01"
+"211",HMH,Stoptreinstation,'t Hout,'t Hout,Helmond 't Hout,Helmond-t-Hout,f-h,NL,"8400300",51.46794,5.63085,"314",,"8400300","2","1, 2",True,True,False,"200","1200","2011-05-01"
+"212",DN,Stoptreinstation,Deurne,Deurne,Deurne,Deurne,d-e,NL,"8400172",51.4558334351,5.78888893127,"235",,"8400172","3","1, 2, 3",True,True,True,"200","1600","2011-05-01"
+"213",VRY,Knooppuntstoptreinstation,Venray,Venray,Venray,Venray,t-z,NL,"8400646",51.526568099,6.01417779922,"505",,"8400646","3","1, 2, 3",True,True,True,"525","1200","2020-05-13"
+"214",VLB,Stoptreinstation,Vierlingsb,Vierlingsbeek,Vierlingsbeek,Vierlingsbeek,t-z,NL,"8400647",51.59193,5.99714,"506",,"8400647","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"215",BMR,Knooppuntstoptreinstation,Boxmeer,Boxmeer,Boxmeer,Boxmeer,b-c,NL,"8400128",51.6445217677,5.93903303146,"208",,"8400128","3","1, 2, 3",True,True,True,"525","1200","2020-05-13"
+"216",VL,Knooppuntintercitystation,Venlo,Venlo,Venlo,Venlo,t-z,NL,"8400644",51.363609314,6.17277765274,"504",,"8400644","10","1, 1a, 1b, 3, 3a, 3b, 4, 4a, 4b, 6",True,True,True,"525","1000","2016-12-11"
+"217",BR,Stoptreinstation,Blerick,Blerick,Blerick,Blerick,b-c,NL,"8400117",51.3725013733,6.15500020981,"201",,"8400117","4","1, 2, 3, 4",True,True,False,"525","1000","2016-12-11"
+"218",TG,Stoptreinstation,Tegelen,Tegelen,Tegelen,Tegelen,t-z,NL,"8400591",51.33894,6.14253,"475",,"8400591","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"219",RV,Stoptreinstation,Reuver,Reuver,Reuver,Reuver,o-s,NL,"8400518",51.2832191665,6.07895851135,"435",,"8400518","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"220",HRT,Stoptreinstation,Horst-Sev,Horst-Sevenum,Horst-Sevenum,Horst-Sevenum,f-h,NL,"8400339",51.4263877869,6.04222202301,"347",,"8400339","3","1, 2, 3",True,True,True,"200","1600","2011-05-01"
+"221",WT,Intercitystation,Weert,Weert,Weert,Weert,t-z,NL,"8400684",51.2486114502,5.70361089706,"523",,"8400684","4","2, 3, 3a, 3b",True,True,True,"260","1200","2011-05-01"
+"222",MZ,Stoptreinstation,Maarheeze,Maarheeze,Maarheeze,Maarheeze,i-n,NL,"8400432",51.304986,5.629796,"390",,"8400088","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"223",RM,Knooppuntintercitystation,Roermond,Roermond,Roermond,Roermond,o-s,NL,"8400523",51.1930541992,5.99416685104,"439",,"8400523","4","1, 2, 3a, 3b",True,True,True,"525","1200","2016-12-11"
+"224",SM,Stoptreinstation,Swalmen,Swalmen,Swalmen,Swalmen,o-s,NL,"8400583",51.23582,6.03228,"474",,"8400583","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"225",EC,Stoptreinstation,Echt,Echt,Echt,Echt,d-e,NL,"8400195",51.1005554199,5.87888908386,"253",,"8400195","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"226",SRN,Stoptreinstation,Susteren,Susteren,Susteren,Susteren,o-s,NL,"8400582",51.0613899231,5.86305570602,"473",,"8400582","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"227",STD,Knooppuntintercitystation,Sittard,Sittard,Sittard,Sittard,o-s,NL,"8400564",51.0016670227,5.85861110687,"461",,"8400564","9","1a, 1b, 2, 2a, 2b, 3, 3a, 3b, 20",True,True,True,"525","1200","2016-12-11"
+"228",BK,Stoptreinstation,Beek-E,Beek-Elsloo,Beek-Elsloo,Beek-Elsloo,b-c,NL,"8400096",50.9474983215,5.78666687012,"192",,"8400096","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"229",GLN,Stoptreinstation,Geleen O,Geleen O.,Geleen Oost,Geleen-Oost,f-h,NL,"8400246",50.9669456482,5.8430557251,"285",,"8400246","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"230",SBK,Stoptreinstation,Spaubeek,Spaubeek,Spaubeek,Spaubeek,o-s,NL,"8400572",50.94327,5.850529,"468",,"8400572","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"231",MT,Knooppuntintercitystation,Maastricht,Maastricht,Maastricht,Maastricht,i-n,NL,"8400424",50.850276947,5.705555439,"385",,"8400424","10","1, 2, 3, 4a, 4b, 5a, 5b, 6, 6a, 6b",True,True,True,"525","1200","2016-12-11"
+"232",MTN,Stoptreinstation,Maastr. N,Maastricht N.,Maastricht Noord,Maastricht-Noord,i-n,NL,"8400449",50.87087,5.71774,"397",,"8400449","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"233",MTR,Knooppuntstoptreinstation,Randwyck,Randwyck,Maastricht Randwyck,Maastricht-Randwyck,i-n,NL,"8400426",50.8386116028,5.71722221375,"386",,"8400426","3","1, 2, 3",True,True,True,"200","1200","2017-01-18"
+"234",SGL,Stoptreinstation,Houthem-St,Houthem-St Gerl.,Houthem-St. Gerlach,Houthem-St.-Gerlach,f-h,NL,"8400341",50.8733329773,5.79722213745,"349",,"8400341","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"235",MES,Sneltreinstation,Meerssen,Meerssen,Meerssen,Meerssen,i-n,NL,"8400434",50.8828793926,5.75099945068,"392",,"8400434","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"236",BDE,Stoptreinstation,Bunde,Bunde,Bunde,Bunde,b-c,NL,"8400140",50.8969459534,5.73666667938,"216",,"8400140","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"237",EDN,Stoptreinstation,Eijsden,Eijsden,Eijsden,Eijsden,d-e,NL,"8400219",50.7719459534,5.71000003815,"267",,"8400219","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"238",VK,Knooppuntsneltreinstation,Valkenburg,Valkenburg,Valkenburg,Valkenburg,t-z,NL,"8400632",50.869720459,5.83222198486,"498",,"8400632","3","1, 2, 3",True,True,True,"525","1200","2020-05-13"
+"239",SOG,Stoptreinstation,Schin op G,Schin op Geul,Schin op Geul,Schin-op-Geul,o-s,NL,"8400555",50.856388092,5.87222242355,"459",,"8400555","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"240",KMR,Stoptreinstation,Klimmen-R,Klimmen-Ransdaal,Klimmen-Ransdaal,Klimmen-Ransdaal,i-n,NL,"8400362",50.8663902283,5.89055538177,"356",,"8400362","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"241",NH,Stoptreinstation,Nuth,Nuth,Nuth,Nuth,i-n,NL,"8400467",50.9194450378,5.89277791977,"406",,"8400467","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"242",SN,Stoptreinstation,Schinnen,Schinnen,Schinnen,Schinnen,o-s,NL,"8400554",50.9391670227,5.87444448471,"458",,"8400554","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"243",HRLW,Stoptreinstation,Heerlen W,Hrl Woonblvd,Heerlen Woonboulevard,Heerlen-Woonboulevard,f-h,NL,"8400404",50.896667,5.952222,"380",,"8400087","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"244",VDL,Stoptreinstation,Voerendaal,Voerendaal,Voerendaal,Voerendaal,t-z,NL,"8400656",50.88722229,5.9302778244,"511",,"8400656","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"245",LG,Knooppuntstoptreinstation,Landgraaf,Landgraaf,Landgraaf,Landgraaf,i-n,NL,"8400548",50.8963890076,6.01916646957,"454",,"8400548","3","1, 2, 3",True,True,True,"260","800","2020-05-13"
+"246",HRL,Knooppuntintercitystation,Heerlen,Heerlen,Heerlen,Heerlen,f-h,NL,"8400307",50.8908348083,5.97499990463,"320",,"8400307","4","1, 2, 4, 5",True,True,True,"525","1200","2016-12-11"
+"247",HB,Stoptreinstation,Hoensbroek,Hoensbroek,Hoensbroek,Hoensbroek,f-h,NL,"8400326",50.9055557251,5.93055534363,"335",,"8400326","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"248",KRD,Knooppuntstoptreinstation,Kerkrade C,Kerkrade C.,Kerkrade Centrum,Kerkrade-Centrum,i-n,NL,"8400355",50.8616676331,6.05749988556,"352",,"8400355","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"249",CVM,Stoptreinstation,Chevremont,Chevremont,Chevremont,Chevremont,b-c,NL,"8400152",50.8761100769,6.05972242355,"221",,"8400152","1","1",True,True,True,"200","1200","2020-05-13"
+"250",EGH,Stoptreinstation,Eygelshov,Eygelshoven,Eygelshoven,Eygelshoven,d-e,NL,"8400338",50.8905563354,6.04500007629,"346",,"8400338","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"251",EGHM,Stoptreinstation,Eygelsh M,Eygelshoven Mrkt,Eygelshoven Markt,Eygelshoven-Markt,d-e,NL,"8400234",50.8960498196,6.06024742126,"277",,"8400043","1","1",True,True,False,"200","1200","2020-05-13"
+"252",NM,Knooppuntintercitystation,Nijmegen,Nijmegen,Nijmegen,Nijmegen,i-n,NL,"8400470",51.8436126709,5.85222244263,"409",,"8400470","8","1, 1a, 1b, 3, 4, 4a, 4b, 35",True,True,True,"525","1200","2019-10-02"
+"253",NMH,Stoptreinstation,Heyendaal,Nm Heyendaal,Nijmegen Heyendaal,Nijmegen-Heyendaal,i-n,NL,"8400468",51.8269462585,5.86749982834,"407",,"8400468","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"254",NMGO,Stoptreinstation,Goffert,Goffert,Nijmegen Goffert,Nijmegen-Goffert,i-n,NL,"8400477",51.8273,5.822722,"412",,"8400109","2","1, 2",True,True,True,"200","1200","2014-12-14"
+"255",NMD,Stoptreinstation,Dukenburg,Dukenburg,Nijmegen Dukenburg,Nijmegen-Dukenburg,i-n,NL,"8400475",51.8241653442,5.79555559158,"411",,"8400475","2","1, 2",True,True,True,"200","1200","2011-05-01"
+"256",MMLH,Stoptreinstation,Mook-Molen,Molenhoek,Mook-Molenhoek,Mook-Molenhoek,i-n,NL,"8400446",51.766262,5.879133,"396",,"8400077","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"257",WC,Stoptreinstation,Wijchen,Wijchen,Wijchen,Wijchen,t-z,NL,"8400710",51.811668396,5.73083353043,"538",,"8400710","3","1, 2, 3",True,True,True,"200","1200","2011-05-01"
+"258",EST,Knooppuntstoptreinstation,Elst,Elst,Elst,Elst,d-e,NL,"8400207",51.9169425964,5.85500001907,"260",,"8400207","3","1, 2, 3",True,True,True,"525","1600","2014-04-02"
+"259",NML,Stoptreinstation,Lent,Lent,Nijmegen Lent,Nijmegen-Lent,i-n,NL,"8400451",51.863154,5.859625,"399",,"8400016","2","1, 2",True,True,False,"200","500","2011-05-01"
+"260",HMN,Stoptreinstation,Hemmen-D,Hemmen-Dodew.,Hemmen-Dodewaard,Hemmen-Dodewaard,f-h,NL,"8400315",51.9222129,5.6737254,"327",,"8400315","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"261",ZA,Stoptreinstation,Zetten-And,Zetten-Andelst,Zetten-Andelst,Zetten-Andelst,t-z,NL,"8400734",51.920056,5.7228408,"545",,"8400734","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"262",ED,Knooppuntintercitystation,Ede-Wag,Ede-Wageningen,Ede-Wageningen,Ede-Wageningen,d-e,NL,"8400200",52.0277786255,5.6730556488,"256",,"8400200","5","1, 1a, 1b, 3, 4",True,True,True,"525","1200","2014-04-02"
+"263",EDC,Stoptreinstation,Ede C,Ede C.,Ede Centrum,Ede-Centrum,d-e,NL,"8400201",52.0436096191,5.66833353043,"257",,"8400201","1","1",True,True,True,"200","1200","2020-05-13"
+"264",LTN,Stoptreinstation,Lunteren,Lunteren,Lunteren,Lunteren,i-n,NL,"8400405",52.0852775574,5.62444448471,"381",,"8400405","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"265",KLP,Stoptreinstation,De Klomp,De Klomp,Veenendaal-De Klomp,Veenendaal-De-Klomp,t-z,NL,"8400637",52.0458335876,5.57388877869,"501",,"8400637","2","1, 2",True,True,True,"300","1200","1990-01-01"
+"266",AH,Knooppuntintercitystation,Arnhem C,Arnhem C.,Arnhem Centraal,Arnhem-Centraal,a,NL,"8400071",51.9850006104,5.89916658401,"176","Arnhem, Arnhem CS","8400071","10","3, 4, 6, 6a, 6b, 7, 8, 9, 10, 11",True,True,True,"525","1200","2016-06-12"
+"267",OTB,Stoptreinstation,Oosterbeek,Oosterbeek,Oosterbeek,Oosterbeek,o-s,NL,"8400489",51.9949989319,5.84000015259,"418",,"8400489","2","1, 2",True,True,False,"200","1200","1990-01-01"
+"268",AHP,Stoptreinstation,Velperprt,Velperpoort,Arnhem Velperpoort,Arnhem-Velperpoort,a,NL,"8400072",51.9852790833,5.919444561,"177",,"8400072","2","1, 2",True,True,False,"400","1200","2014-06-04"
+"269",AHPR,Stoptreinstation,Presikhaaf,Presikhaaf,Arnhem Presikhaaf,Arnhem-Presikhaaf,a,NL,"8400075",51.9880561829,5.94388866425,"180",,"8400075","2","1, 2",True,True,False,"200","1200","1990-01-01"
+"270",AHZ,Stoptreinstation,Arnhem Z,Arnhem Zuid,Arnhem Zuid,Arnhem-Zuid,a,NL,"8400227",51.9550018311,5.85194444656,"270",,"8400029","2","1, 2",True,True,True,"200","1600","2014-04-02"
+"271",WF,Stoptreinstation,Wolfheze,Wolfheze,Wolfheze,Wolfheze,t-z,NL,"8400704",52.0055541992,5.79361104965,"534",,"8400704","3","1, 2, 3",True,True,False,"200","1200","1990-01-01"
+"272",VP,Stoptreinstation,Velp,Velp,Velp,Velp,t-z,NL,"8400640",51.994720459,5.98027801514,"503",,"8400640","2","1, 2",True,True,False,"200","1600","1990-01-01"
+"273",ZV,Knooppuntstoptreinstation,Zevenaar,Zevenaar,Zevenaar,Zevenaar,t-z,NL,"8400735",51.9230537415,6.07194423676,"546",,"8400735","3","1, 2, 3",True,True,True,"260","800","2020-05-13"
+"274",DVN,Stoptreinstation,Duiven,Duiven,Duiven,Duiven,d-e,NL,"8400193",51.9433326721,6.01472234726,"251",,"8400193","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"275",WTV,Stoptreinstation,Westervrt,Westervoort,Westervoort,Westervoort,t-z,NL,"8400688",51.96286,5.9695,"526",,"8400103","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"276",DID,Stoptreinstation,Didam,Didam,Didam,Didam,d-e,NL,"8400174",51.933502,6.1324106,"237",,"8400174","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"277",DR,Intercitystation,Dieren,Dieren,Dieren,Dieren,d-e,NL,"8400176",52.0449981689,6.10305547714,"239",,"8400176","2","1, 2",True,True,True,"525","1600","1999-05-30"
+"278",BMN,Stoptreinstation,Brummen,Brummen,Brummen,Brummen,b-c,NL,"8400136",52.0911102295,6.14694452286,"214",,"8400136","2","1, 2",True,True,True,"200","1600","1990-01-01"
+"279",RH,Stoptreinstation,Rheden,Rheden,Rheden,Rheden,o-s,NL,"8400519",52.0101,6.0314,"436",,"8400519","2","1, 2",True,True,True,"260","1600","1990-01-01"
+"280",DTC,Knooppuntstoptreinstation,Doetinchem,Doetinchem,Doetinchem,Doetinchem,d-e,NL,"8400177",51.9585962,6.2962148,"240",,"8400177","2","1, 2",True,True,True,"260","800","2020-05-13"
+"281",DTCH,Stoptreinstation,De Huet,De Huet,Doetinchem De Huet,Doetinchem-De-Huet,d-e,NL,"8400184",51.9591413,6.2598521,"246",,"8400184","1","1",True,True,True,"200","1200","2020-05-13"
+"282",GDR,Stoptreinstation,Gaanderen,Gaanderen,Gaanderen,Gaanderen,f-h,NL,"8400241",51.93074,6.3486,"281",,"8400034","1","1",True,True,True,"200","1200","2020-05-13"
+"283",WL,Stoptreinstation,Wehl,Wehl,Wehl,Wehl,t-z,NL,"8400686",51.9578065,6.213844,"525",,"8400686","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"284",VSV,Stoptreinstation,Varsseveld,Varsseveld,Varsseveld,Varsseveld,t-z,NL,"8400635",51.937257,6.458839,"499",,"8400635","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"285",TBG,Stoptreinstation,Terborg,Terborg,Terborg,Terborg,t-z,NL,"8400592",51.9224549,6.3642466,"476",,"8400592","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"286",WW,Knooppuntstoptreinstation,Winterswk,Winterswijk,Winterswijk,Winterswijk,t-z,NL,"8400698",51.9677307,6.7155181,"531",,"8400698","2","1a, 1b",True,True,True,"260","800","2020-05-13"
+"287",WWW,Stoptreinstation,Wintersw W,Winterswijk W.,Winterswijk West,Winterswijk-West,t-z,NL,"8400700",51.97453,6.70417,"532",,"8400013","1","1",True,True,True,"200","1200","2020-05-13"
+"288",ATN,Stoptreinstation,Aalten,Aalten,Aalten,Aalten,a,NL,"8400045",51.9213265246,6.57862722874,"156",,"8400045","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"289",LTV,Stoptreinstation,Lichtenv-G,Lichtenvoorde-G.,Lichtenvoorde-Groenlo,Lichtenvoorde-Groenlo,i-n,NL,"8400395",52.01188,6.59641,"376",,"8400395","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"290",ZP,Knooppuntintercitystation,Zutphen,Zutphen,Zutphen,Zutphen,t-z,NL,"8400744",52.1452789307,6.19416666031,"552",,"8400744","9","1, 1a, 1b, 2, 2a, 2b, 3, 3a, 3b",True,True,True,"525","1200","2014-04-02"
+"291",VEM,Stoptreinstation,Voorst-E,Voorst-Empe,Voorst-Empe,Voorst-Empe,t-z,NL,"8400668",52.1575012207,6.14361095428,"518",,"8400038","1","1",True,True,True,"200","1200","2020-05-13"
+"292",LC,Stoptreinstation,Lochem,Lochem,Lochem,Lochem,i-n,NL,"8400399",52.1666679382,6.42638874054,"377",,"8400399","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"293",VD,Stoptreinstation,Vorden,Vorden,Vorden,Vorden,t-z,NL,"8400661",52.1071949,6.3170457,"514",,"8400661","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"294",RL,Stoptreinstation,Ruurlo,Ruurlo,Ruurlo,Ruurlo,o-s,NL,"8400537",52.0810888,6.4492656,"448",,"8400537","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"295",APD,Knooppuntintercitystation,Apeldoorn,Apeldoorn,Apeldoorn,Apeldoorn,a,NL,"8400066",52.2091674805,5.97027778625,"172",,"8400066","3","1, 3, 4",True,True,True,"525","1200","2014-04-02"
+"296",APDO,Stoptreinstation,Osseveld,Osseveld,Apeldoorn Osseveld,Apeldoorn-Osseveld,a,NL,"8400229",52.2152786255,6.00444459915,"272",,"8400033","2","1, 2",True,True,False,"200","1600","2006-12-10"
+"297",APDM,Stoptreinstation,De Maten,De Maten,Apeldoorn De Maten,Apeldoorn-De-Maten,a,NL,"8400233",52.2052764893,6.00055551529,"276",,"8400032","1","1",True,True,True,"200","1200","2020-05-13"
+"298",KBK,Stoptreinstation,Klarenbk,Klarenbeek,Klarenbeek,Klarenbeek,i-n,NL,"8400361",52.1780548096,6.08361101151,"355",,"8400361","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"299",TWL,Stoptreinstation,Twello,Twello,Twello,Twello,t-z,NL,"8400599",52.23777771,6.09861087799,"481",,"8400037","2","1, 2",True,True,True,"200","1600","2006-12-10"
+"300",DV,Knooppuntintercitystation,Deventer,Deventer,Deventer,Deventer,d-e,NL,"8400173",52.2574996948,6.1605553627,"236",,"8400173","7","1, 3, 3a, 3b, 4, 4a, 4b",True,True,True,"525","1200","2005-01-01"
+"301",DVC,Stoptreinstation,Colmschate,Colmschate,Deventer Colmschate,Deventer-Colmschate,d-e,NL,"8400185",52.2502784729,6.2144446373,"247",,"8400185","2","1, 2",True,True,True,"200","1200","2005-01-01"
+"302",NVD,Stoptreinstation,Nijverdal,Nijverdal,Nijverdal,Nijverdal,i-n,NL,"8400472",52.366111,6.462,"410",,"8400472","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"303",HON,Stoptreinstation,Holten,Holten,Holten,Holten,f-h,NL,"8400328",52.2838897705,6.42027759552,"337",,"8400328","2","1, 2",True,True,True,"200","1600","2002-08-18"
+"304",RSN,Stoptreinstation,Rijssen,Rijssen,Rijssen,Rijssen,o-s,NL,"8400538",52.3122215271,6.52027797699,"449",,"8400538","2","2, 3",True,True,True,"200","1600","2015-09-30"
+"305",GO,Stoptreinstation,Goor,Goor,Goor,Goor,f-h,NL,"8400254",52.2302780151,6.58444452286,"289",,"8400254","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"306",DDN,Stoptreinstation,Delden,Delden,Delden,Delden,d-e,NL,"8400169",52.2599983215,6.71611118317,"232",,"8400169","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"307",BN,Stoptreinstation,Borne,Borne,Borne,Borne,b-c,NL,"8400124",52.2988891602,6.74805545807,"204",,"8400124","2","1, 2",True,True,True,"200","1600","2017-12-10"
+"308",ES,Knooppuntintercitystation,Enschede,Enschede,Enschede,Enschede,d-e,NL,"8400212",52.2224998474,6.88999986649,"263",,"8400212","5","1, 2, 3, 4a, 4b",True,True,True,"525","1200","2017-12-10"
+"309",ESK,Stoptreinstation,Kennispark,Kennispark,Enschede Kennispark,Enschede-Kennispark,d-e,NL,"8400221",52.2374992371,6.83888912201,"268",,"8400213","2","1, 2",True,True,True,"200","1600","2017-12-10"
+"310",ESE,Stoptreinstation,Eschmarke,De Eschmarke,Enschede De Eschmarke,Enschede-De-Eschmarke,d-e,NL,"8400217",52.2213897705,6.95111131668,"265","Eschmarke, De Eschmarke","8400012","1","1",True,True,True,"200","1200","2020-05-13"
+"311",GBR,Stoptreinstation,Glanerbrug,Glanerbrug,Glanerbrug,Glanerbrug,f-h,NL,"8400262",52.2186126709,6.97444438934,"294",,"8400011","1","1",True,True,True,"200","1200","2020-05-13"
+"312",HGL,Knooppuntintercitystation,Hengelo,Hengelo,Hengelo,Hengelo,f-h,NL,"8400316",52.2616653442,6.79388904572,"328",,"8400316","7","2, 2a, 2b, 3, 3a, 3b, 11",True,True,True,"525","1200","2017-12-10"
+"313",HGLO,Stoptreinstation,Hengelo O,Hengelo O.,Hengelo Oost,Hengelo-Oost,f-h,NL,"8400312",52.2688903809,6.81944465637,"325",,"8400312","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"314",HGLG,Stoptreinstation,Gezondhprk,Hengelo Gezondh.,Hengelo Gezondheidspark,Hengelo-Gezondheidspark,f-h,NL,"8400433",52.261667,6.773611,"391",,"8400433","1","1",True,True,True,"200","1200","2020-05-13"
+"315",ODZ,Stoptreinstation,Oldenzaal,Oldenzaal,Oldenzaal,Oldenzaal,o-s,NL,"8400483",52.306388855,6.93472242355,"415",,"8400483","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"316",AMRI,Stoptreinstation,de Riet,de Riet,Almelo de Riet,Almelo-de-Riet,a,NL,"8400520",52.3419456482,6.66666650772,"437",,"8400520","2","1, 2",True,True,True,"200","1600","2017-12-10"
+"317",AML,Knooppuntintercitystation,Almelo,Almelo,Almelo,Almelo,a,NL,"8400051",52.3580551147,6.65388870239,"160",,"8400051","8","2, 2a, 2b, 3, 3b, 4, 4a, 4b",True,True,True,"525","1200","2017-12-10"
+"318",WDN,Knooppuntstoptreinstation,Wierden,Wierden,Wierden,Wierden,t-z,NL,"8400691",52.3613891602,6.59166669846,"528",,"8400691","3","1, 2, 3",True,True,True,"260","1200","2017-12-10"
+"319",DA,Stoptreinstation,Daarlervn,Daarlerveen,Daarlerveen,Daarlerveen,d-e,NL,"8400164",52.4407702,6.5759947,"227",,"8400164","2","1a, 1b",True,True,True,"200","1200","2020-05-13"
+"320",VZ,Stoptreinstation,Vriezenvn,Vriezenveen,Vriezenveen,Vriezenveen,t-z,NL,"8400664",52.40203,6.60041,"515",,"8400664","1","1",True,True,True,"200","1200","2020-05-13"
+"321",VHP,Stoptreinstation,Vroomshoop,Vroomshoop,Vroomshoop,Vroomshoop,t-z,NL,"8400666",52.4571921,6.5696679,"516",,"8400666","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"322",MRB,Knooppuntsneltreinstation,Mariënberg,Mariënberg,Mariënberg,Mariënberg,i-n,NL,"8400428",52.5094451904,6.57527780533,"388",,"8400428","3","1, 2, 3",True,True,True,"260","1200","2020-05-13"
+"323",DL,Sneltreinstation,Dalfsen,Dalfsen,Dalfsen,Dalfsen,d-e,NL,"8400167",52.4983329773,6.25861120224,"230",,"8400167","2","1, 2",True,True,True,"200","1600","2020-05-13"
+"324",OMN,Knooppuntsneltreinstation,Ommen,Ommen,Ommen,Ommen,o-s,NL,"8400487",52.5094451904,6.41583347321,"417",,"8400487","2","1, 2",True,True,True,"525","1600","2020-05-13"
+"325",CO,Knooppuntsneltreinstation,Coevorden,Coevorden,Coevorden,Coevorden,b-c,NL,"8400153",52.6636123657,6.7355556488,"222",,"8400153","2","1, 2",True,True,True,"525","1600","2020-05-13"
+"326",DLN,Stoptreinstation,Dalen,Dalen,Dalen,Dalen,d-e,NL,"8400161",52.6941680908,6.75805568695,"225",,"8400161","1","1",True,True,True,"200","1600","2020-05-13"
+"327",HDB,Sneltreinstation,Hardenberg,Hardenberg,Hardenberg,Hardenberg,f-h,NL,"8400293",52.5727767944,6.6286110878,"307",,"8400293","2","1, 2",True,True,True,"200","1600","2020-05-13"
+"328",GBG,Stoptreinstation,Gramsbergn,Gramsbergen,Gramsbergen,Gramsbergen,f-h,NL,"8400259",52.6091651917,6.67583322525,"293",,"8400259","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"329",EMN,Sneltreinstation,Emmen,Emmen,Emmen,Emmen,d-e,NL,"8400208",52.7900009155,6.89944458008,"261",,"8400208","2","1, 2",True,True,True,"200","1600","2020-05-13"
+"330",EMNZ,Sneltreinstation,Emmen Z,Emmen Z.,Emmen Zuid,Emmen-Zuid,d-e,NL,"8400407",52.7488663747,6.87478065491,"382",,"8400093","1","1",True,True,True,"200","1200","2020-05-13"
+"331",NA,Sneltreinstation,Nw A'dam,Nw. Amsterdam,Nieuw Amsterdam,Nieuw-Amsterdam,i-n,NL,"8400454",52.7186126709,6.84861087799,"401",,"8400454","2","1, 2",True,True,True,"200","1600","2020-05-13"
+"332",HGV,Stoptreinstation,Hoogeveen,Hoogeveen,Hoogeveen,Hoogeveen,f-h,NL,"8400330",52.7338905334,6.47361087799,"339",,"8400330","3","1, 2, 3",True,True,True,"300","1600","1990-01-01"
+"333",MP,Knooppuntstoptreinstation,Meppel,Meppel,Meppel,Meppel,i-n,NL,"8400435",52.6908340454,6.19750022888,"393",,"8400435","5","1, 2, 2a, 2b, 3",True,True,True,"300","1200","1990-01-01"
+"334",ZL,Knooppuntintercitystation,Zwolle,Zwolle,Zwolle,Zwolle,t-z,NL,"8400747",52.5047225952,6.09194421768,"555",,"8400747","24","1, 1a, 1b, 3, 3a, 3b, 4, 5, 5a, 5b, 6, 6a, 6b, 7, 7a, 7b, 8, 9, 10, 12, 13, 14, 15, 16",True,True,True,"525","1200","2017-12-10"
+"335",ZLSH,Stoptreinstation,Stadshagen,Stadshagen,Zwolle Stadshagen,Zwolle-Stadshagen,t-z,NL,"8400746",52.52764,6.05146,"554",,"8400746","1","1",True,True,True,"200","1200","2020-05-13"
+"336",NS,Stoptreinstation,Nunspeet,Nunspeet,Nunspeet,Nunspeet,i-n,NL,"8400466",52.3708343506,5.78527784348,"405",,"8400466","2","1, 2",True,True,True,"200","1200","1990-01-01"
+"337",HDE,Stoptreinstation,'t Harde,'t Harde,'t Harde,t-Harde,t-z,NL,"8400388",52.4091682,5.893611,"372","""Harde (t)""","8400388","4","1, 2, 3, 4",True,True,False,"200","1200","1990-01-01"
+"338",RAT,Stoptreinstation,Raalte,Raalte,Raalte,Raalte,o-s,NL,"8400513",52.3916664124,6.27750015259,"432",,"8400513","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"339",OST,Intercitystation,Olst,Olst,Olst,Olst,o-s,NL,"8400486",52.3347206116,6.11305570602,"416",,"8400486","3","1, 2, 3",True,True,True,"200","1600","2005-01-01"
+"340",HNO,Stoptreinstation,Heino,Heino,Heino,Heino,f-h,NL,"8400310",52.4272232056,6.22111129761,"323",,"8400310","2","1, 2",True,True,True,"200","1200","2020-05-13"
+"341",WH,Intercitystation,Wijhe,Wijhe,Wijhe,Wijhe,t-z,NL,"8400711",52.3902778625,6.14055538177,"539",,"8400711","2","1, 2",True,True,True,"200","1600","2005-01-01"
+"342",LLS,Knooppuntintercitystation,Lelystad C,Lelystad C.,Lelystad Centrum,Lelystad-Centrum,i-n,NL,"8400394",52.5077781677,5.47277784348,"375",,"8400394","4","1, 2, 3, 4",True,True,True,"525","1200","2012-12-09"
+"343",DRON,Stoptreinstation,Dronten,Dronten,Dronten,Dronten,d-e,NL,"8400198",52.5344,5.72089,"255",,"8400198","2","1, 4",True,True,True,"200","1200","2012-12-09"
+"344",KPN,Stoptreinstation,Kampen,Kampen,Kampen,Kampen,i-n,NL,"8400353",52.5597229004,5.92166662216,"350",,"8400353","1","1",True,True,True,"200","1200","2020-05-13"
+"345",KPNZ,Stoptreinstation,Kampen Z,Kampen Z.,Kampen Zuid,Kampen-Zuid,i-n,NL,"8400360",52.5331,5.91309,"354",,"8400360","2","1, 2",True,True,True,"200","1200","2012-12-09"
+"346",SWK,Intercitystation,Steenwijk,Steenwijk,Steenwijk,Steenwijk,o-s,NL,"8400578",52.7915109924,6.11455576324,"472",,"8400578","2","1, 2",True,True,True,"300","1600","2005-01-01"
+"347",HR,Intercitystation,Heerenveen,Heerenveen,Heerenveen,Heerenveen,f-h,NL,"8400305",52.9613876343,5.9141664505,"318",It Hearrenfean,"8400305","2","2, 3",True,True,True,"260","1600","2003-02-20"
+"348",HRY,Facultatiefstation,IJsstadion,IJsstadion,Heerenveen IJsstadion,Heerenveen-IJsstadion,f-h,NL,"8400301",52.9352760315,5.94388866425,"315",It Hearrenfean IIsstadium,"8400020","2","1, 2",True,False,True,"200","1200","2001-06-10"
+"349",AKM,Stoptreinstation,Akkrum,Akkrum,Akkrum,Akkrum,a,NL,"8400049",53.0463905334,5.84361124039,"158",,"8400049","2","2, 3",True,True,True,"200","1600","1990-01-01"
+"350",SK,Knooppuntstoptreinstation,Sneek,Sneek,Sneek,Sneek,o-s,NL,"8400566",53.0328688,5.6523969,"463",Snits,"8400566","2","1, 2",True,True,True,"260","800","2020-09-01"
+"351",SKND,Stoptreinstation,Sneek N,Sneek N.,Sneek Noord,Sneek-Noord,o-s,NL,"8400574",53.0409319,5.6631808,"469",Snits Noard,"8400574","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"352",IJT,Stoptreinstation,IJlst,IJlst,IJlst,IJlst,i-n,NL,"8400722",53.0146614,5.6160801,"540",Drylts,"8400722","1","1",True,True,True,"200","1200","2020-09-01"
+"353",HNP,Stoptreinstation,Hindeloopn,Hindeloopen,Hindeloopen,Hindeloopen,f-h,NL,"8400323",52.9464903,5.423063,"333",Hylpen,"8400323","1","1",True,True,True,"200","1200","2020-09-01"
+"354",WK,Stoptreinstation,Workum,Workum,Workum,Workum,t-z,NL,"8400706",52.9724864,5.4564285,"536",Warkum,"8400706","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"355",STV,Stoptreinstation,Stavoren,Stavoren,Stavoren,Stavoren,o-s,NL,"8400575",52.8865535,5.3600212,"470",Starum,"8400575","1","1",True,True,True,"200","1200","2020-09-01"
+"356",KMW,Stoptreinstation,Koudum-M,Koudum-Molkwerum,Koudum-Molkwerum,Koudum-Molkwerum,i-n,NL,"8400366",52.9028197,5.4106913,"359",Koudum-Molkwar,"8400366","1","1",True,True,True,"200","1200","2020-09-01"
+"357",FN,Stoptreinstation,Franeker,Franeker,Franeker,Franeker,f-h,NL,"8400232",53.1824488,5.5483094,"275",Frjentsjer,"8400232","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"358",HLG,Stoptreinstation,Harlingen,Harlingen,Harlingen,Harlingen,f-h,NL,"8400296",53.1704205,5.4251932,"310",Harns,"8400296","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"359",HLGH,Stoptreinstation,Harl Haven,Harlingen Haven,Harlingen Haven,Harlingen-Haven,f-h,NL,"8400298",53.174917,5.4112885,"312",Harns Haven,"8479003","1","1",True,True,True,"200","1200","2020-09-01"
+"360",LW,Knooppuntintercitystation,Leeuwarden,Leeuwarden,Leeuwarden,Leeuwarden,i-n,NL,"8400387",53.1958351135,5.79222202301,"371",Ljouwert,"8400387","9","1, 2, 3, 4, 5, 5a, 5b, 6b, 8",True,True,True,"525","1200","2014-04-02"
+"361",LWC,Stoptreinstation,Camminghab,Camminghaburen,Leeuwarden Camminghaburen,Leeuwarden-Camminghaburen,i-n,NL,"8400389",53.2021808,5.8422968,"373",Ljouwert Camminghaburen,"8400389","1","1",True,True,True,"200","1200","2020-09-01"
+"362",GW,Stoptreinstation,Grou-Jirns,Grou-Jirnsum,Grou-Jirnsum,Grou-Jirnsum,f-h,NL,"8400266",53.0888900757,5.82250022888,"297",,"8400266","2","1, 2",True,True,True,"200","1600","1999-05-30"
+"363",MG,Stoptreinstation,Mantgum,Mantgum,Mantgum,Mantgum,i-n,NL,"8400427",53.1296368,5.7131996,"387",,"8400427","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"364",DEI,Stoptreinstation,Deinum,Deinum,Deinum,Deinum,d-e,NL,"8400168",53.1888115,5.7281572,"231",,"8400168","1","1",True,True,True,"200","1200","2020-09-01"
+"365",DRP,Stoptreinstation,Dronryp,Dronryp,Dronryp,Dronryp,d-e,NL,"8400192",53.1778086,5.6347411,"250",,"8400192","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"366",HDG,Stoptreinstation,Hurdegaryp,Hurdegaryp,Hurdegaryp,Hurdegaryp,f-h,NL,"8400292",53.2187783,5.934543,"306",,"8400292","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"367",FWD,Stoptreinstation,Feanwâlden,Feanwâlden,Feanwâlden,Feanwâlden,f-h,NL,"8400638",53.2351834,5.9886615,"502",Feanwalden,"8400638","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"368",DWE,Stoptreinstation,Westereen,De Westereen,De Westereen,De-Westereen,d-e,NL,"8400745",53.24817,6.03463,"553",,"8400745","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"369",BP,Knooppuntsneltreinstation,Buitenpost,Buitenpost,Buitenpost,Buitenpost,b-c,NL,"8400139",53.2564547,6.1446496,"215",Bûtenpost,"8400139","2","1, 2",True,True,True,"525","1200","2020-09-01"
+"370",ASN,Knooppuntintercitystation,Assen,Assen,Assen,Assen,a,NL,"8400073",52.9916648865,6.57083320618,"178",,"8400073","7","1, 1a, 1b, 2, 2a, 2b, 3",True,True,True,"300","1600","1990-01-01"
+"371",BL,Stoptreinstation,Beilen,Beilen,Beilen,Beilen,b-c,NL,"8400100",52.8547210693,6.52111101151,"194",,"8400100","2","1, 2",True,True,True,"300","1600","1998-09-02"
+"372",HGZ,Knooppuntstoptreinstation,Hoogezand,Hoogezand-Sap.,Hoogezand-Sappemeer,Hoogezand-Sappemeer,f-h,NL,"8400331",53.1598181317,6.77075386047,"340",,"8400331","2","1, 2",True,True,True,"260","800","2020-09-01"
+"373",MTH,Stoptreinstation,Martenshk,Martenshoek,Martenshoek,Martenshoek,i-n,NL,"8400430",53.1607232,6.7402989,"389",,"8400430","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"374",KW,Stoptreinstation,Kropswolde,Kropswolde,Kropswolde,Kropswolde,i-n,NL,"8400369",53.1617362,6.7220882,"362",,"8400369","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"375",ZB,Knooppuntstoptreinstation,Zuidbroek,Zuidbroek,Zuidbroek,Zuidbroek,t-z,NL,"8400742",53.15961228,6.86791419983,"550",,"8400742","3","1, 2, 3",True,True,True,"200","1200","2020-09-01"
+"376",VDM,Knooppuntstoptreinstation,Veendam,Veendam,Veendam,Veendam,t-z,NL,"8400636",53.10324,6.88475,"500",,"8400095","1","5",True,True,True,"200","1200","2020-09-01"
+"377",WS,Knooppuntstoptreinstation,Winschoten,Winschoten,Winschoten,Winschoten,t-z,NL,"8400696",53.1392377,7.035101,"529",,"8400696","2","1, 2",True,True,True,"260","800","2020-09-01"
+"378",SDA,Stoptreinstation,Scheemda,Scheemda,Scheemda,Scheemda,o-s,NL,"8400551",53.1655362,6.9777775,"456",,"8400551","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"379",NSCH,Knooppuntstoptreinstation,Nweschans,Bad Nieuweschans,Bad Nieuweschans,Bad-Nieuweschans,b-c,NL,"8400457",53.1844,7.19937,"403",Nieuweschans,"8400457","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"380",GERP,Stoptreinstation,Europapark,Europapark,Groningen Europapark,Groningen-Europapark,f-h,NL,"8400238",53.20480027,6.5854178,"280",,"8400042","4","1, 2, 3, 4",True,True,True,"200","1200","2014-04-02"
+"381",GN,Knooppuntintercitystation,Groningen,Groningen,Groningen,Groningen,f-h,NL,"8400263",53.2105560303,6.56472206116,"295",,"8400263","13","1a, 1b, 2a, 2b, 3a, 3b, 4b, 5a, 6a, 6b, 7, 7a, 7b",True,True,True,"525","1200","2014-04-02"
+"382",GNN,Stoptreinstation,Groningn N,Groningen N.,Groningen Noord,Groningen-Noord,f-h,NL,"8400264",53.2301469,6.5563172,"296",,"8400264","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"383",HRNOVT,Facultatiefstation,Haren Tran,Haren OV Transf.,Haren OV Transferium,Haren-OV-Transferium,f-h,NL,"8400290",53.170071,6.592202,"305",,"8400290","0",,True,True,False,"0","0","2019-08-21"
+"384",HRN,Stoptreinstation,Haren,Haren,Haren,Haren,f-h,NL,"8400297",53.176109314,6.61722230911,"311",,"8400297","2","1, 2",True,True,True,"300","1600","1998-09-02"
+"385",SWD,Stoptreinstation,Sauwerd,Sauwerd,Sauwerd,Sauwerd,o-s,NL,"8400547",53.29113,6.5404,"453",,"8400547","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"386",BDM,Stoptreinstation,Bedum,Bedum,Bedum,Bedum,b-c,NL,"8400094",53.3068857,6.593054,"191",,"8400094","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"387",ZH,Stoptreinstation,Zuidhorn,Zuidhorn,Zuidhorn,Zuidhorn,t-z,NL,"8400743",53.2486292,6.4062361,"551",,"8400743","3","1, 2, 3",True,True,True,"200","1200","2020-09-01"
+"388",GK,Stoptreinstation,Grijpskerk,Grijpskerk,Grijpskerk,Grijpskerk,f-h,NL,"8400267",53.2557403256,6.30977869034,"298",,"8400267","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"389",APG,Stoptreinstation,Appingedam,Appingedam,Appingedam,Appingedam,a,NL,"8400067",53.3258135,6.8619577,"173",,"8400067","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"390",LP,Stoptreinstation,Loppersum,Loppersum,Loppersum,Loppersum,i-n,NL,"8400403",53.3347145,6.7472625,"379",,"8400403","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"391",STM,Stoptreinstation,Stedum,Stedum,Stedum,Stedum,o-s,NL,"8400576",53.3262092,6.6875551,"471",,"8400576","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"392",DZW,Stoptreinstation,Delfzijl W,Delfzijl W.,Delfzijl West,Delfzijl-West,d-e,NL,"8400175",53.3320834,6.9069092,"238",,"8400175","1","1",True,True,True,"200","1200","2020-09-01"
+"393",DZ,Stoptreinstation,Delfzijl,Delfzijl,Delfzijl,Delfzijl,d-e,NL,"8400171",53.3336625,6.9240797,"234",,"8400171","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"394",BF,Stoptreinstation,Baflo,Baflo,Baflo,Baflo,b-c,NL,"8400089",53.3608969,6.5185581,"187",,"8400089","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"395",WSM,Stoptreinstation,Winsum,Winsum,Winsum,Winsum,t-z,NL,"8400697",53.3300994,6.5202905,"530",,"8400697","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"396",EEM,Stoptreinstation,Eemshaven,Eemshaven,Eemshaven,Eemshaven,d-e,NL,"8400202",53.458419,6.832,"258",,"8400202","1","1",True,True,True,"200","1200","2020-09-01"
+"397",UHZ,Stoptreinstation,Uithuizen,Uithuizen,Uithuizen,Uithuizen,t-z,NL,"8400617",53.4099568,6.6748869,"489",,"8400617","1","1",True,True,True,"200","1200","2020-09-01"
+"398",UHM,Stoptreinstation,Uithuizerm,Uithuizermeeden,Uithuizermeeden,Uithuizermeeden,t-z,NL,"8400618",53.4145845,6.7202975,"490",,"8400618","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"399",RD,Stoptreinstation,Roodeschl,Roodeschool,Roodeschool,Roodeschool,o-s,NL,"8400525",53.421262,6.7587,"441",,"8400525","1","1",True,True,True,"200","1200","2020-09-01"
+"400",UST,Stoptreinstation,Usquert,Usquert,Usquert,Usquert,t-z,NL,"8400619",53.4014742,6.6093776,"491",,"8400619","2","1, 2",True,True,True,"200","1200","2020-09-01"
+"401",WFM,Stoptreinstation,Warffum,Warffum,Warffum,Warffum,t-z,NL,"8400679",53.3908431,6.5671364,"522",,"8400679","2","1, 2",True,True,True,"200","1200","2020-09-01"
