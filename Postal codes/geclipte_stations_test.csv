@@ -1,0 +1,21 @@
+fid,Code,Type_,Kort,Middel,Lang,webnaam,weblibrary,Land,UICCode,Lat,Lon,OBJECTID,Synoniem,EVACode,Sporen,Spoornumme,HeeftFacil,HeeftVertr,HeeftReisa,Radius,NaderenRad,IngangsDat
+"1",HNK,Stoptreinstation,Hoorn Kers,Kersenboogerd,Hoorn Kersenboogerd,Hoorn-Kersenboogerd,f-h,NL,"8400336",52.6536102295,5.08555555344,"344",,"8400336","2","1, 2",True,True,True,"200","1200","2011-05-01
+"
+"2",VB,Stoptreinstation,Voorburg,Voorburg,Voorburg,Voorburg,t-z,NL,"8400658",52.0666656494,4.35944461823,"512",,"8400658","2","1, 2",True,True,False,"200","1200","2011-05-01
+"
+"3",GVMW,Stoptreinstation,Moerwijk,Moerwijk,Den Haag Moerwijk,Den-Haag-Moerwijk,d-e,NL,"8400279",52.0538902283,4.30861091614,"301",,"8400279","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01
+"
+"4",GVM,Stoptreinstation,Mariahoeve,Mariahoeve,Den Haag Mariahoeve,Den-Haag-Mariahoeve,d-e,NL,"8400278",52.0905570984,4.36944437027,"300",,"8400278","4","1, 2, 3, 4",True,True,True,"200","1200","2011-05-01
+"
+"5",LAA,Knooppuntstoptreinstation,Laan v NOI,Laan v NOI,Den Haag Laan v NOI,Den-Haag-Laan-v-NOI,d-e,NL,"8400380",52.0786094666,4.34277772903,"366","Laan van NOI, Laan van Nieuw Oost Indië","8400380","4","3, 4, 5, 6",True,True,True,"525","1200","2011-05-01
+"
+"6",LLZM,Stoptreinstation,Lansingerl,Lansingerland,Lansingerland-Zoetermeer,Lansingerland-Zoetermeer,i-n,NL,"8400135",52.042222,4.517222,"213",,"8400135","2","1, 2",True,True,True,"200","1200","2018-12-09
+"
+"7",ZTMO,Stoptreinstation,Zoetermr O,Zoetermeer O.,Zoetermeer Oost,Zoetermeer-Oost,t-z,NL,"8400740",52.0463905334,4.4927778244,"548",,"8400740","2","1, 2",True,True,True,"200","1200","2011-05-01
+"
+"8",ZTM,Knooppuntstoptreinstation,Zoetermeer,Zoetermeer,Zoetermeer,Zoetermeer,t-z,NL,"8400741",52.0475006104,4.47722244263,"549",,"8400741","2","3, 4",True,True,True,"200","1200","2011-05-01
+"
+"9",DDRS,Stoptreinstation,Stadspldrs,Stadspolders,Dordrecht Stadspolders,Dordrecht-Stadspolders,d-e,NL,"8400186",51.8019447327,4.71666669846,"248",,"8400186","2","1, 2",True,True,True,"200","1200","2020-05-13
+"
+"10",ST,Knooppuntstoptreinstation,Soest,Soest,Soest,Soest,o-s,NL,"8400567",52.1733322144,5.30999994278,"464",,"8400567","2","1, 2",True,True,False,"260","800","1990-01-01
+"
